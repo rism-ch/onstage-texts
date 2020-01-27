@@ -60,4 +60,4 @@ onstage is a database that lists and publishes the programmes of public musical 
 	</table>
 </div>
 
-###### Onstage fait partie de la série de publications RISM Digital Library
+###### Onstage is part of the RISM Digital Library series of publications.
