@@ -24,3 +24,5 @@ onstage ist eine Datenbank, die die Programme der öffentlichen musikalischen Ak
 * mehr als 400 Programme
 * mehr als 2'400 Komponisten und Interpreten
 * ca. 3'000 digitalisierte Seiten
+
+###### Onstage is Teil del Publikationenreihe RISM Digital Library
