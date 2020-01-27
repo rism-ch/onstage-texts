@@ -26,9 +26,7 @@ onstage est une base de données qui recense et publie les programmes des activi
 * plus de 2'400 compositeurs et interprètes
 * ca. 3'000 pages numérisées
 
-[![rism-logo](https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-rism.png)](https://www.rism-ch.org "RISM CH")
-
-
+<!-- Old Onstage logos-->
 <div>
 	<table border="0" cellspacing="10px" style="margin: 0 auto;text-align:center">
 		<tr>
