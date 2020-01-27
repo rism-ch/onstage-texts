@@ -25,4 +25,39 @@ onstage ist eine Datenbank, die die Programme der öffentlichen musikalischen Ak
 * mehr als 2'400 Komponisten und Interpreten
 * ca. 3'000 digitalisierte Seiten
 
+<!-- Old Onstage logos-->
+<div>
+	<table border="0" cellspacing="10px" style="margin: 0 auto;text-align:center">
+		<tr>
+			<td align="center">
+				<a href="http://www.rism-ch.org" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-rism.png" width="80px" border="0"></a>
+			</td>
+			<td align="center">
+				<a href="http://www.hemu.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cdl-hemu.jpg" width="150px" border="0"></a>
+			</td>
+			<td align="center">
+				<a href="http://www.hes-so.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hesso-s.png" width="100px" border="0"></a>
+			</td>
+		</tr>
+    <tr>
+      <td colspan=3>
+        <table width="100%">
+          <tr>
+      			<td align="center" width="50%">
+      				<a href="http://www.cmusge.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cmusge.png" width="120px" border="0"></a>
+      			</td>
+      			<td align="center" width="50%">
+      				<a href="https://www.hesge.ch/hem" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hem-ge.png" width="75px" border="0"></a>
+      			</td>
+          </tr>
+          <tr>
+            <td align="center" colspan=2 style="padding: 10px">
+              <a href="http://famb.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/famb_logo_pantone.jpg" width="75%"></a>
+            </td>
+        </table>
+      </td>
+	</table>
+</div>
+
+
 ###### Onstage is Teil del Publikationenreihe RISM Digital Library
