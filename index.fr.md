@@ -26,6 +26,40 @@ onstage est une base de données qui recense et publie les programmes des activi
 * plus de 2'400 compositeurs et interprètes
 * ca. 3'000 pages numérisées
 
-[![rism-logo](https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-rism.png =2500x)](https://www.rism-ch.org "RISM CH")
+[![rism-logo](https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-rism.png)](https://www.rism-ch.org "RISM CH")
+
+
+<div>
+	<table border="0" cellspacing="10px" style="margin: 0 auto;text-align:center">
+		<tr>
+			<td align="center">
+				<a href="http://www.rism-ch.org" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-rism.png" width="80px" border="0"></a>
+			</td>
+			<td align="center">
+				<a href="http://www.hemu.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cdl-hemu.jpg" width="150px" border="0"></a>
+			</td>
+			<td align="center">
+				<a href="http://www.hes-so.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hesso-s.png" width="100px" border="0"></a>
+			</td>
+		</tr>
+    <tr>
+      <td colspan=3>
+        <table width="100%">
+          <tr>
+      			<td align="center" width="50%">
+      				<a href="http://www.cmusge.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cmusge.png" width="120px" border="0"></a>
+      			</td>
+      			<td align="center" width="50%">
+      				<a href="https://www.hesge.ch/hem" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hem-ge.png" width="75px" border="0"></a>
+      			</td>
+          </tr>
+          <tr>
+            <td align="center" colspan=2 style="padding: 10px">
+              <a href="http://famb.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/famb_logo_pantone.jpg" width="75%"></a>
+            </td>
+        </table>
+      </td>
+	</table>
+</div>
 
 ###### Onstage fait partie de la série de publications RISM Digital Library
