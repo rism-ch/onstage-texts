@@ -132,9 +132,9 @@ Voici deux diagrammes montrant l’évolution des tendances dans la programmatio
 
 <tr>
 
-<td align="center">![](https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/image001.png)</td>
+<td align="center"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/image001.png"/></td>
 
-<td align="center">![](https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/image002.png)</td>
+<td align="center"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/image002.png"/></td>
 
 </tr>
 
