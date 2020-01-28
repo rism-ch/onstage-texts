@@ -31,8 +31,7 @@ Alle Programme wurden manuell indexiert. Das zugrunde liegende Index-Format ist 
 * Personennamen
 * Veranstaltungsorte (Konzertsäle)
 * Konzertreihen
-
-## Konzertdaten
+* Konzertdaten
 
 ![tei-example](https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/tei-example.png)
 ###### Ausschnitt aus dem Inhalt eines Index in TEI
