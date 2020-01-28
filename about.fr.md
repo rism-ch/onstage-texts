@@ -38,6 +38,8 @@ Tous les programmes ont été indexés à la main. Le format d’indexation sous
 
 ## Extrait du contenu d'un indexe en TEI
 
+![tei-example](https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/tei.png)
+
 ## OCR
 Pour pouvoir proposer aux utilisateurs une recherche plein-texte, un logiciel de reconnaissance de caractère (OCR) a été appliqué à l’ensemble des programmes. Le logiciel utilisé est ABBYY FineReader 11 Pro (www.abbyy.com). Aucune vérification ou correction n’a été effectuée manuellement et la recherche plein-texte se fait sur une version brute du résultat OCR.
 
