@@ -2,7 +2,7 @@
 
 onstage è una banca dati che elenca e pubblica i programmi delle attività musicali pubbliche organizzate da diverse istituzioni svizzere. onstage è costituito da programmi di concerti, conferenze, corsi, esami e liste di premi; questi documenti - che coprono attualmente il periodo dal 1826 ad oggi - sono stati catalogati, indicizzati e digitalizzati. onstage permette di rintracciare il repertorio musicale eseguito nel corso degli anni, di ricostruire i gusti di un determinato periodo e la sua estetica, e di trovare gli interpreti che hanno costruito due secoli di musica in Svizzera.
 
-## sul palco in numeri
+## onstage in numeri
 
 ### Fondo Losanna
 
