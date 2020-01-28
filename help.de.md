@@ -1,7 +1,7 @@
 # Hilfe
-### Die Publikation erlaubt mehrere Zugangs- und Arbeitsweisen:
+#### Die Publikation erlaubt mehrere Zugangs- und Arbeitsweisen:
 
-#### Dokumentensuche im Volltext, über die Register, über das Datum;
+* Dokumentensuche im Volltext, über die Register, über das Datum;
 *Ansicht der Dokumente (mit unterschiedlichen Anzeigeweisen) und Metadaten;
 *Dokumenten-Export (als PDF);
 *Permalink für jedes Dokument
