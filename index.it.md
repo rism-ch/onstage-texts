@@ -60,4 +60,4 @@ onstage è una banca dati che elenca e pubblica i programmi delle attività musi
 	</table>
 </div>
 
-#### Onstage fa parte della serie di pubblicazioni della RISM Digital Library.
+##### Onstage fa parte della serie di pubblicazioni della RISM Digital Library.
