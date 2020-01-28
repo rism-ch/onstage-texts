@@ -1,10 +1,11 @@
 # Help
-### onstage permet de :
+#### onstage permet de :
 
-#### rechercher les documents en plein-texte, par index, par période ;
+* rechercher les documents en plein-texte, par index, par période ;
 * afficher les documents (avec différents types d’affichage) et ses métadonnées;
 * exporter les documents (version .pdf) ;
 * exporter un permalien pour chaque document.
+
 #### Modes de recherche :
 
 * « search » : recherche un ou plusieurs mots dans toutes les données répertoriées ;
