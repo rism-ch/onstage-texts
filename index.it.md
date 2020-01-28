@@ -24,40 +24,40 @@ onstage è una banca dati che elenca e pubblica i programmi delle attività musi
 
 * oltre 400 programmi
 * oltre 2'400 compositori e interpreti
-# che... # 3'000 pagine scansionate
+* circa 3'000 pagine scansionate
 
-<!-- Vecchi loghi di scena-->
-<Div.
-	<tabella border="0" cellspacing="10px" style="margine: 0 auto;text-align:center">
-		<Non lo so.
-			<d align="centro">
+<!-- Old Onstage logos-->
+<div>
+	<table border="0" cellspacing="10px" style="margin: 0 auto;text-align:center">
+		<tr>
+			<td align="center">
 				<a href="http://www.rism-ch.org" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-rism.png" width="80px" border="0"></a>
-			</D...
-			<d align="centro">
+			</td>
+			<td align="center">
 				<a href="http://www.hemu.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cdl-hemu.jpg" width="150px" border="0"></a>
-			</D...
-			<d align="centro">
+			</td>
+			<td align="center">
 				<a href="http://www.hes-so.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hesso-s.png" width="100px" border="0"></a>
-			</D...
-		</Non lo so.
-    <Non lo so.
-      <d colspan=3
-        < larghezza della tavola="100%">
-          <Non lo so.
-      			<td align="centro" width="50%">
+			</td>
+		</tr>
+    <tr>
+      <td colspan=3>
+        <table width="100%">
+          <tr>
+      			<td align="center" width="50%">
       				<a href="http://www.cmusge.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cmusge.png" width="120px" border="0"></a>
-      			</D...
-      			<td align="centro" width="50%">
+      			</td>
+      			<td align="center" width="50%">
       				<a href="https://www.hesge.ch/hem" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hem-ge.png" width="75px" border="0"></a>
-      			</D...
-          </Non lo so.
-          <Non lo so.
-            <align="centro" colspan=2 style="imbottitura: 10px">
+      			</td>
+          </tr>
+          <tr>
+            <td align="center" colspan=2 style="padding: 10px">
               <a href="http://famb.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/famb_logo_pantone.jpg" width="75%"></a>
-            </D...
-        </tavolo>
-      </D...
-	</tavolo>
+            </td>
+        </table>
+      </td>
+	</table>
 </div>
 
 #### Onstage fa parte della serie di pubblicazioni della RISM Digital Library.
