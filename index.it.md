@@ -1,26 +1,26 @@
 # Introduzione
 
-onstage è una banca dati che elenca e pubblica i programmi delle attività musicali pubbliche organizzate da diverse istituzioni svizzere. onstage è costituito da programmi di concerti, conferenze, corsi, esami e liste di premi; questi documenti - che coprono attualmente il periodo dal 1826 ad oggi - sono stati catalogati, indicizzati e digitalizzati. onstage permette di rintracciare il repertorio musicale eseguito nel corso degli anni, di ricostruire i gusti di un determinato periodo e la sua estetica, e di trovare gli interpreti che hanno costruito due secoli di musica in Svizzera.
+_onstage_ è una banca dati che elenca e pubblica i programmi delle attività musicali pubbliche organizzate da diverse istituzioni svizzere. _onstage_ è costituito da programmi di concerti, conferenze, corsi, esami e premiazioni; questi documenti - che coprono attualmente il periodo dal 1826 ad oggi - sono stati catalogati, indicizzati e digitalizzati. _onstage_ permette di rintracciare il repertorio musicale eseguito nel corso degli anni, di ricostruire i gusti di un determinato periodo e la sua estetica, e di individuare gli interpreti che hanno costruito due secoli di musica in Svizzera.
 
-## onstage in numeri
+## _onstage_ in numeri
 
-### Fondo Losanna
+### Collezione di Losanna
 
 * 865 attività
 * 1'069 compositori e interpreti
-* 243 provini
+* 243 audizioni
 * 298 concerti
-* 117 lezioni
+* 117 conferenze
 * 405 attività legate ai cicli di concerti ("giovedì al conservatorio", "pranzo-concerto" ...)
-*1.650 pagine scansionate
+* 1'650 pagine scansionate
 
-### Fondo di Ginevra
+### Collezione di Ginevra
 
-* 8.904 programmi
-* 6.954 compositori e interpreti
-* 19.499 pagine scansionate
+* 8'904 programmi
+* 6'954 compositori e interpreti
+* 19'499 pagine scansionate
 
-### Fondo di Basilea
+### Collezione di Basilea
 
 * oltre 400 programmi
 * oltre 2'400 compositori e interpreti
@@ -60,4 +60,4 @@ onstage è una banca dati che elenca e pubblica i programmi delle attività musi
 	</table>
 </div>
 
-###### Onstage fa parte della serie di pubblicazioni della RISM Digital Library.
+###### Onstage fa parte della serie di pubblicazioni [RISM Digital Library](http://rism-ch.org/d-lib.html) (RISM d-lib), ISSN 2297-573X
