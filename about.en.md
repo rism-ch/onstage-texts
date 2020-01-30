@@ -9,38 +9,38 @@ onstage is a documentary enhancement project that stems from the various activit
 
 ### Responsible for the collection of the Geneva Conservatory and Haute Ecole de Musique de Genève
 
-* Music Conservatory Library - biblio@cmg.ch
+* Library of the Conservatoire de Musique de Genève - biblio@cmg.ch
 
 ### Responsible for the collection Freunde alter Musik Basel
 
-* Archiv des Vereins Freunde alter Musik Basel - info@famb.ch
+* Archive of the Verein Freunde alter Musik Basel - info@famb.ch
 
 ### IT & digitisation managers
 
-* Swiss IMSN Office - info@rism-ch.org
+* Swiss RISM Office - info@rism-ch.org
 
 ## Contact
 For more information: onstage@rism-ch.org
 
 ## Realization
-The onstage database consists of three main elements: a digitized version of the concert programs, manual indexing of their content and an automatic uncorrected OCR transcription for full-text search. These three elements are brought together in the search and presentation interface of the onstage project.
+The onstage database consists of three main elements: a digitized version of the concert programmes, manual indexing of their content and an automatic uncorrected OCR transcription for full-text search. These three elements are brought together in the search and presentation interface of the onstage project.
 
 ## Digitization
-The programs were digitized under the supervision of RISM Switzerland. The scanning parameters are 300/400dpi in colour in uncompressed TIFF format.
+The programs were digitized under the supervision of RISM Switzerland. The scanning parameters are 300/400 dpi in colour in uncompressed TIFF format.
 
 ## Indexing
-All programs have been indexed by hand. The underlying indexing format is TEI (Text Encoding Initiative), an XML format used for text markup (www.tei-c.org). The data that has been indexed is as follows:
+All programs have been indexed by hand. The underlying indexing format is TEI (Text Encoding Initiative), an XML format used for text markup (www.tei-c.org). The data has been indexed as follows:
 
-* The names of persons
+* Personal names
 * Venues (concert halls)
-* The concert series
+* Concert series
 * Concert dates
 
 [tei-example](https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/tei-example.png)
 #### Extract from the contents of an index in TEI
 
 ## OCR
-In order to offer users a full-text search, character recognition software (OCR) has been applied to all programs. The software used is ABBYY FineReader 11 Pro (www.abbyy.com). No manual checks or corrections are performed, and the full-text search is performed on a raw version of the OCR result.
+In order to offer users a full-text search, character recognition software (OCR) has been applied to all programmes. The software used is ABBYY FineReader 11 Pro (www.abbyy.com). No manual checks or corrections are performed, and the full-text search is performed on a raw version of the OCR result.
 
 ## Interface
-The index search is done directly on the TEI (XML) files using XPath queries (via PHP). Scanned images from the programs are displayed using the diva.js display specifically designed for high-resolution images (ddmal.music.mcgill.ca/diva/). It allows a fluid consultation of several pages, whatever the chosen zoom level. Program images are also available for download in PDF format.
+The index search is done directly on the TEI (XML) files using XPath queries (via PHP). Scanned images from the programmes are displayed using the diva.js display specifically designed for high-resolution images (ddmal.music.mcgill.ca/diva/). It allows a fluid consultation of several pages, whatever the chosen zoom level. Programme images are also available for download in PDF format.
