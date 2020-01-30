@@ -3,6 +3,7 @@
 
 * search documents in full text, by index, by period;
 * display the documents (with different types of display) and its metadata;
+* pin your documents;
 * export documents (.pdf version);
 * export a permalink for each document.
 
