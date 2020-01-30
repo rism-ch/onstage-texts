@@ -3,6 +3,7 @@
 
 * Dokumentensuche im Volltext, über die Register, über das Datum;
 * Ansicht der Dokumente (mit unterschiedlichen Anzeigeweisen) und Metadaten;
+* Merkliste mit ausgewählten Dokumenten;
 * Dokumenten-Export (als PDF);
 * Permalink für jedes Dokument
 
