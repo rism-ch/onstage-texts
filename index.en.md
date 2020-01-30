@@ -1,13 +1,13 @@
 # Introduction
 
-onstage is a database that lists and publishes the programmes of public musical activities organized by various Swiss institutions. onstage consists of concert programmes, lectures, courses, examinations and prize lists; these documents - currently covering the period from 1826 to the present day - have been catalogued, indexed and digitized. onstage makes it possible to retrace the musical repertoire played over the years, to reconstruct the tastes of a given period as well as its aesthetics, and to find the performers who built up two centuries of music in Switzerland.
+_onstage_ is a database that lists and publishes the programmes of public musical activities organized by various Swiss institutions. _onstage_ consists of concert programmes, lectures, courses, examinations and prize concerts; these documents - currently covering the period from 1826 to the present day - have been catalogued, indexed and digitized. _onstage_ makes it possible to retrace the musical repertoire played over the years, to reconstruct the tastes of a given period as well as its aesthetics, and to find the performers who contributed to two centuries of music in Switzerland.
 
-## onstage in Figures
+## _onstage_ in Figures
 
 ### Lausanne
 
 * 865 activities
-* 1'069 composers et interpreters
+* 1'069 composers and performers
 * 243 auditions
 * 298 concerts
 * 117 conferences
@@ -16,14 +16,14 @@ onstage is a database that lists and publishes the programmes of public musical 
 
 ### Genève
 
-* 8'904 prohrams
-* 6'954 composers et interpreters
+* 8'904 programmes
+* 6'954 composers and performers
 * 19'499 pages digitalized
 
 ### Basel
 
 * more than 400 programmes
-* more than 2'400 composers et interpreters
+* more than 2'400 composers and performers
 * ca. 3'000 pages digitalized
 
 <!-- Old Onstage logos-->
@@ -60,4 +60,5 @@ onstage is a database that lists and publishes the programmes of public musical 
 	</table>
 </div>
 
-###### Onstage is part of the RISM Digital Library series of publications.
+###### Onstage is part of the publication series [RISM Digital Library](http://rism-ch.org/d-lib.html) (RISM d-lib), ISSN 2297-573X
+
