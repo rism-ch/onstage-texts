@@ -1,5 +1,5 @@
 # Projekt _onstage_
-onstage ist ein Projekt zur Valorisierung von Dokumenten, welches aus den verschiedenen Aktivitäten der HEMU-CL für die Feier des 150-jährigen Bestehen entstanden ist. Im Jahr 2015 ist das Conservatoire et Haute Ecole de Musique in Genf dem Projekt beigetreten und hat ihre Konzertprogramme integriert. Im Jahr 2016 wurde die Sammlung des Vereins Freunde alter Musik Basel der Datenbank hinzugefügt.
+_onstage_ ist ein Projekt zur Valorisierung von Dokumenten, welches aus den verschiedenen Aktivitäten der HEMU-CL für die Feier des 150-jährigen Bestehen entstanden ist. Im Jahr 2015 ist das Conservatoire et Haute Ecole de Musique in Genf dem Projekt beigetreten und hat ihre Konzertprogramme integriert. Im Jahr 2016 wurde die Sammlung des Vereins Freunde alter Musik Basel der Datenbank hinzugefügt.
 
 ## Projektverantwortliche
 Verantwortlich für die Sammlung Conservatoire et Haute Ecole de Musique de Lausanne
