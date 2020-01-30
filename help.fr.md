@@ -3,6 +3,7 @@
 
 * rechercher les documents en plein-texte, par index, par période ;
 * afficher les documents (avec différents types d’affichage) et ses métadonnées;
+* épingler des documents ;
 * exporter les documents (version .pdf) ;
 * exporter un permalien pour chaque document.
 
