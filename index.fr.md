@@ -1,8 +1,8 @@
 # Introduction
 
-onstage est une base de données qui recense et publie les programmes des activités musicales publiques organisées par de différentes institutions suisses. onstage est constituée de programmes de concerts, conférences, cours, examens et palmarès ; ces documents - qui couvrent actuellement la période de 1826 à nos jours - ont été catalogués, indexés et numérisés. onstage permet de retracer le répertoire musical joué au fil des années, de reconstituer les goûts d'une période donnée ainsi que son esthétique et de retrouver les interprètes qui ont bâti deux siècles de musique en Suisse.
+_onstage_ est une base de données qui recense et publie les programmes des activités musicales publiques organisées par de différentes institutions suisses. _onstage_ est constituée de programmes de concerts, conférences, cours, examens et palmarès ; ces documents - qui couvrent actuellement la période de 1826 à nos jours - ont été catalogués, indexés et numérisés. _onstage_ permet de retracer le répertoire musical joué au fil des années, de reconstituer les goûts d'une période donnée ainsi que son esthétique et de retrouver les interprètes qui ont bâti deux siècles de musique en Suisse.
 
-## onstage en chiffres
+## _onstage_ en chiffres
 
 ### Fonds Lausanne
 
@@ -60,4 +60,4 @@ onstage est une base de données qui recense et publie les programmes des activi
 	</table>
 </div>
 
-###### Onstage fait partie de la série de publications RISM Digital Library
+###### Onstage fait partie de la série de publications [RISM Digital Library](http://rism-ch.org/d-lib.html) (RISM d-lib), ISSN 2297-573X
