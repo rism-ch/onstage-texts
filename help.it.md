@@ -4,6 +4,7 @@
 * cercare i documenti in testo integrale, per indice, per periodo;
 * visualizzare i documenti (con diversi tipi di visualizzazione) e i relativi metadati;
 * esportare i documenti (versione .pdf);
+* salvare documenti negli appunti;
 * esportare un permalink per ogni documento.
 
 #### Modalità di ricerca :
