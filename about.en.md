@@ -1,5 +1,5 @@
 # Project _onstage_
-onstage is a documentary enhancement project that stems from the various activities proposed by the HEMU-CL for the celebration of its 150th anniversary. In 2015, the Geneva Conservatory and the Haute Ecole de Musique de Genève joined the project by integrating their concert programmes. In 2016, the collection of the Association Freunde alter Musik Basel was added to the database.
+_onstage_ is a document enhancement project that originates from the various activities proposed by the HEMU-CL for the celebration of its 150th anniversary. In 2015, the Geneva Conservatory and the Haute Ecole de Musique de Genève joined the project by integrating their concert programmes. In 2016, the collection of the Association Freunde alter Musik Basel was added to the database.
 
 ## Project leaders
 ### Responsible for the collection of the Conservatoire and the Haute Ecole de Musique de Lausanne
