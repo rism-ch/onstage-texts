@@ -10,5 +10,5 @@
 
 * "ricerca": ricerca di una o più parole in tutti i dati elencati;
 * "ricerca" + "indici": ricerca una o più parole contenute in un indice specifico ("persone" o "luoghi" o "serie"); * "ricerca" + "indici": ricerca una o più parole contenute in un indice specifico ("persone" o "luoghi" o "serie")
-* " ricerca " + " intervallo di date " : ricerca di una o più parole in tutti i dati elencati relativi ad un determinato periodo;
-* " sfoglia " : dà accesso alle liste in cui sono classificati i diversi indici del database. Sono disponibili cinque indici: compositori, interpreti, luoghi, date, serie.
+* "ricerca" + "periodo" : ricerca di una o più parole in tutti i dati elencati relativi ad un determinato periodo;
+* "consulta" : dà accesso alle liste in cui sono classificati i diversi indici del database. Sono disponibili quattro indici: compositori, interpreti, luoghi, serie.
