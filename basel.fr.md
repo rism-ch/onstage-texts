@@ -5,7 +5,7 @@ L'association "Freunde Alter Musik Basel" a été fondée en 1942 par Paul Sache
 Tous les programmes de concerts - programmes de saison et individuels - sont conservés dans les archives de l'Association (dans la Schola Cantorum Basiliensis), généralement avec les documents administratifs correspondants. Les documents (programmes de saison et individuels, sans les brochures contenantes seuls les textes chantées) ont été mis en ordre et numérisées par le personnel du RISM Suisse à la Bibliothèque nationale de Berne. Les programmes de ces dernières années (depuis 2007) avaient déjà été produits numériquement et n'avaient donc pas besoin d'être scannés.
 
 ## Notes sur l'utilisation
-Les comptes rendus sont tirés des brochures du programme. Certaines pièces peuvent avoir été attribuées à d'autres compositeurs entre-temps. Les noms des ensembles et des interprètes n'ont été normalisés qu'au sein de la collection, mais n'ont pas fait l'objet de recherches plus approfondies. Les noms des compositeurs, en revanche, ont été comparés, dans la mesure du possible, avec les données normalisés dans les bases de données du RISM.
+Les attributions sont tirées des brochures du programme. Certaines pièces peuvent avoir été attribuées à d'autres compositeurs entre-temps. Les noms des ensembles et des interprètes n'ont été normalisés qu'au sein de la collection, mais n'ont pas fait l'objet de recherches plus approfondies. Les noms des compositeurs, en revanche, ont été comparés, dans la mesure du possible, avec les données normalisés dans les bases de données du RISM.
 
 ## Bibliographie
 Gutmann 1992 : Alte Musik – Konzert und Rezeption, dir. Veronika Gutmann, Winterthur 1992.
