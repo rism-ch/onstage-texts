@@ -84,7 +84,7 @@ There are 116 of them; the oldest in the collection dates from [1939](/source/CH
 
 #### Courses
 
-This series includes public interpretation courses and courses on historical subjects, similar to lectures over several days. Note the two public courses (now called "masterclasses") given by Alfred Cortot during the era of Alfred Pochon ([1949](/source/CH_LAc_prg_seasons-0043) and [1950](/source/CH_LAc_prg_seasons-0055)). Programmes contain sometimes the description of a particular course, or the announcement of a series of weekly courses given by a single teacher (e.g., a course of study in a particular subject, or a series of weekly courses given by a single teacher, e.g., [the sonata course](/source/CH_LAc_prg_seasons0182) given during the 1963-1964 academic year by Paul-André Gaillard).
+This series includes public interpretation courses and courses on historical subjects, similar to lectures over several days. Note the two public courses (now called "masterclasses") given by Alfred Cortot during the era of Alfred Pochon ([1949](/source/CH_LAc_prg_seasons-0043) and [1950](/source/CH_LAc_prg_seasons-0055)). Programmes contain sometimes the description of a particular course, or the announcement of a series of weekly courses given by a single teacher (e.g., [the sonata course](/source/CH_LAc_prg_seasons0182) given during the 1963-1964 academic year by Paul-André Gaillard).
 
 #### Thursday concerts
 
