@@ -54,8 +54,8 @@ Liste der Reihe "Wettbewerbe" (Links):
 * [29. Oktober 1962](/source/CH_LAc_prg_Wettbewerb-0001);
 * [23. Oktober 1994](/source/CH_LAc_prg_Wettbewerb-0002);
 * [14. Februar 1995](/source/CH_LAc_prg_Wettbewerb-0005);
-* [6. Februar 1997](/source/CH_LAc_LAc_prg_Wettbewerb-0005);
-* [14. Februar 1997](/source/CH_LAc_LAc_prg_Wettbewerb-0013);
+* [6. Februar 1997](/source/CH_LAc_prg_Wettbewerb-0005);
+* [14. Februar 1997](/source/CH_LAc_prg_Wettbewerb-0013);
 * [26. Oktober 1997](/source/CH_LAc_prg_Wettbewerb-0017).
 
 #### Preisverleihungen
@@ -66,21 +66,21 @@ Liste der "Preisverleihungen"-Reihe (Links):
 
 * [2. Juli 1907](/source/CH_LAc_prg_privater_Fonds-0002);
 * [1. Juli 1927](/source/CH_LAc_prg_privater_Hintergrund_0006);
-* [29. Juni 1928](/source/CH_LAc_LAc_prg_priv_fund-0018);
+* [29. Juni 1928](/source/CH_LAc_prg_priv_fund-0018);
 * [05. Juli 1962](/source/CH_LAc_prg_priv-0001);
 * [06. Juli 1964](/source/CH_LAc_prg_palmares-0007);
 * [3. Juli 1968](/source/CH_LAc_prg_palmares-0010);
-* [8. Juli 1969](/source/CH_LAc_LAc_prg_palmares-0013);
+* [8. Juli 1969](/source/CH_LAc_prg_palmares-0013);
 * [5. Juli 1971](/source/CH_LAc_prg_saisons-0229);
 * [2. Juli 1986](/source/CH_LAc_prg_palmares-0015);
-* [1. Juli 1987](/source/CH_LAc_LAc_prg_palmares-0019);
-* [28. Juni 1989](/source/CH_LAc_LAc_prg_palmares-0023);
-* [27. Juni 1992](/source/CH_LAc_LAc_prg_palmares-0027);
+* [1. Juli 1987](/source/CH_LAc_prg_palmares-0019);
+* [28. Juni 1989](/source/CH_LAc_prg_palmares-0023);
+* [27. Juni 1992](/source/CH_LAc_prg_palmares-0027);
 * [27. Juni 1998](/source/CH_LAc_prg_palmares-0031).
 
 #### Vorträge
 
-Es gibt 116 von ihnen; der älteste in der Sammlung stammt aus [1939](/source/CH_LAc_prg_dates-0190). Sie reflektieren die Anliegen und Interessen der jeweiligen Epoche zu verschiedenen musikwissenschaftlichen Themen ([Komponisten-Biographien](/source/CH_LAc_LAc_prg_jeudis-0309), [Musikästhetik](/source/CH_LAc_prg_jeudis-0732), [Analyse von Musikwerken](/source/CH_LAc_prg_jeudis-0530), [Interpretationstechniken](/source/CH_LAc_prg_jeudis-0703), [Überlegungen zur zeitgenössischen Musik](/source/CH_LAc_prg_saisons-0156), [Instrumentenkunde](/source/CH_LAc_prg_jeudis-0169), [Musikethnologie](/source/CH_LAc_prg_jeudis-0185)). Der Inhalt der Vorträge wird im Titel oder in einem kurzen Text auf der Rückseite des digitalisierten Programms zusammengefasst (z.B. Runder Tisch zur Wahrnehmung der atonalen Musik, [6. Dezember 1990](/source/CH_LAc_prg_jeudis-0342)). In den 1940er Jahren gab es eine klare Präferenz für "Vortrags-Auditionen", in denen der Interpret das Werk, das er spielte, kommentierte (z.B. Denise Vidal kommentiert Beethovens Op. 120, [18. Februar 1944](/source/CH_LAc_prg_seasons-0008)). Die Rolle des Kommentators kann auch einem zweiten Sprecher übertragen werden. Bei den zahlreichen Vorträgen, die zu den "Donnerstagen am Konservatorium" gehören, ist der Referent in der Regel alleine. Zu beachten sind auch die mehrtägigen Vortragsreihen (manchmal in Zusammenarbeit mit anderen Institutionen oder Kulturvereine, wie z.B. der Universität Lausanne für das Kolloquium [Guy de Pourtalès](/source/CH_LAc_prg_concerts-0044) im Jahr 1994).
+Es gibt 116 von ihnen; der älteste in der Sammlung stammt aus [1939](/source/CH_LAc_prg_dates-0190). Sie reflektieren die Anliegen und Interessen der jeweiligen Epoche zu verschiedenen musikwissenschaftlichen Themen ([Komponisten-Biographien](/source/CH_LAc_prg_jeudis-0309), [Musikästhetik](/source/CH_LAc_prg_jeudis-0732), [Analyse von Musikwerken](/source/CH_LAc_prg_jeudis-0530), [Interpretationstechniken](/source/CH_LAc_prg_jeudis-0703), [Überlegungen zur zeitgenössischen Musik](/source/CH_LAc_prg_saisons-0156), [Instrumentenkunde](/source/CH_LAc_prg_jeudis-0169), [Musikethnologie](/source/CH_LAc_prg_jeudis-0185)). Der Inhalt der Vorträge wird im Titel oder in einem kurzen Text auf der Rückseite des digitalisierten Programms zusammengefasst (z.B. Runder Tisch zur Wahrnehmung der atonalen Musik, [6. Dezember 1990](/source/CH_LAc_prg_jeudis-0342)). In den 1940er Jahren gab es eine klare Präferenz für "Vortrags-Auditionen", in denen der Interpret das Werk, das er spielte, kommentierte (z.B. Denise Vidal kommentiert Beethovens Op. 120, [18. Februar 1944](/source/CH_LAc_prg_seasons-0008)). Die Rolle des Kommentators kann auch einem zweiten Sprecher übertragen werden. Bei den zahlreichen Vorträgen, die zu den "Donnerstagen am Konservatorium" gehören, ist der Referent in der Regel alleine. Zu beachten sind auch die mehrtägigen Vortragsreihen (manchmal in Zusammenarbeit mit anderen Institutionen oder Kulturvereine, wie z.B. der Universität Lausanne für das Kolloquium [Guy de Pourtalès](/source/CH_LAc_prg_concerts-0044) im Jahr 1994).
 
 #### Kurse
 
@@ -88,7 +88,7 @@ Diese Reihe umfasst öffentliche Interpretationskurse und Kurse zu historischen 
 
 #### Donnerstagskonzerte
 
-Die 1984 unter der Ägide von Jean-Jacques Rapin gegründete Reihe "Jeudis du Conservatoire" hat die Aufgabe, das intellektuelle und kulturelle Pendant der Institution zu entwickeln. Dieses ehrgeizige Projekt lädt Persönlichkeiten aus der Welt der Musik ein und gibt den Lehrern und Studierenden der Hochschule einen Auftrittsraum. Die "Jeudis" sind sehr oft um ein bestimmtes Thema herum aufgebaut, können aber auch die Form eines Musikkonzertes (z.B. [5. Dezember 1985](/source/CH_LAc_LAc_prg_jeudis-0069)), eines öffentlichen Vortrags (z.B. [23. April 1987](/source/CH_LAc_prg_jeudis-0173)) oder einer Aufführung (z.B. [22. November 1990](/source/CH_LAc_prg_jeudis-0333)) annehmen.  Die Themen reichen von der Musikgeschichte (Porträts von Musikern sind häufig (z.B. [Arthur Honegger](/Quelle/CH_LAc_LAc_prg_jeudis-0481)), zum [Dialog zwischen den Künsten](/Quelle/CH_LAc_prg_jeudis-0682), der [Instrumentenkunde](/Quelle/CH_LAc_prg_jeudis-0402), der körperlichen Gesundheit von Musikern (z.B. [Rückenschmerzen](/source/CH_LAc_prg_jeudis-0422)) und vielen anderen musikbezogenen Überlegungen. Die Programme dieser Reihe sind somit systematisch mit einer anderen Reihe, Konzerten, Vorträgen oder anderen Veranstaltungen verknüpft. Die "Jeudis" endeten 1998, zur gleichen Zeit wie die Leitung von Rapin. Die Sammlung umfasst einen Grossteil der Programme. Obwohl einige fehlen, ist es möglich, das gesamte Programm zu rekonstruieren, indem man die letzte Seite der digitalisierten Programme konsultiert, die die folgenden ankündigen soll (z.B. das Programm vom [15. Januar 1987](/source/CH_LAc_prg_jeudis-0145) und die folgenden erwähnen Rudolf Kelterborns Vortrag vom 25. Februar).
+Die 1984 unter der Ägide von Jean-Jacques Rapin gegründete Reihe "Jeudis du Conservatoire" hat die Aufgabe, das intellektuelle und kulturelle Pendant der Institution zu entwickeln. Dieses ehrgeizige Projekt lädt Persönlichkeiten aus der Welt der Musik ein und gibt den Lehrern und Studierenden der Hochschule einen Auftrittsraum. Die "Jeudis" sind sehr oft um ein bestimmtes Thema herum aufgebaut, können aber auch die Form eines Musikkonzertes (z.B. [5. Dezember 1985](/source/CH_LAc_prg_jeudis-0069)), eines öffentlichen Vortrags (z.B. [23. April 1987](/source/CH_LAc_prg_jeudis-0173)) oder einer Aufführung (z.B. [22. November 1990](/source/CH_LAc_prg_jeudis-0333)) annehmen.  Die Themen reichen von der Musikgeschichte (Porträts von Musikern sind häufig (z.B. [Arthur Honegger](/Quelle/CH_LAc_prg_jeudis-0481)), zum [Dialog zwischen den Künsten](/Quelle/CH_LAc_prg_jeudis-0682), der [Instrumentenkunde](/Quelle/CH_LAc_prg_jeudis-0402), der körperlichen Gesundheit von Musikern (z.B. [Rückenschmerzen](/source/CH_LAc_prg_jeudis-0422)) und vielen anderen musikbezogenen Überlegungen. Die Programme dieser Reihe sind somit systematisch mit einer anderen Reihe, Konzerten, Vorträgen oder anderen Veranstaltungen verknüpft. Die "Jeudis" endeten 1998, zur gleichen Zeit wie die Leitung von Rapin. Die Sammlung umfasst einen Grossteil der Programme. Obwohl einige fehlen, ist es möglich, das gesamte Programm zu rekonstruieren, indem man die letzte Seite der digitalisierten Programme konsultiert, die die folgenden ankündigen soll (z.B. das Programm vom [15. Januar 1987](/source/CH_LAc_prg_jeudis-0145) und die folgenden erwähnen Rudolf Kelterborns Vortrag vom 25. Februar).
 
 #### Mittagskonzerte
 
