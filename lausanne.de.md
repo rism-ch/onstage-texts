@@ -84,7 +84,7 @@ Es gibt 116 von ihnen; der älteste in der Sammlung stammt aus [1939](/source/CH
 
 #### Kurse
 
-Diese Reihe umfasst öffentliche Interpretationskurse und Kurse zu historischen Themen, die ähnlich wie mehrtägige Vorträge sind. Zu beachten sind die beiden öffentlichen Kurse (jetzt "Meisterkurse" genannt), die Alfred Cortot während der Ära Alfred Pochons gehalten hat ([1949](/source/CH_LAc_prg_seasons-0043) und [1950](/source/CH_LAc_prg_seasons-0055)). Die Programme beinhalten manchmal die Beschreibung eines bestimmten Kurses oder die Ankündigung einer Reihe von wöchentlichen Kursen, die von einem einzelnen Lehrer gehalten werden (z.B. ein Studiengang in einem bestimmten Fach oder eine Reihe von wöchentlichen Kursen, die von einem einzelnen Lehrer gehalten werden). (z.B. [der Sonatenkurs](/source/CH_LAc_prg_seasons0182), der während des Studienjahres 1963-1964 von Paul-André Gaillard gegeben wurde).
+Diese Reihe umfasst öffentliche Interpretationskurse und Kurse zu historischen Themen, die ähnlich wie mehrtägige Vorträge sind. Zu beachten sind die beiden öffentlichen Kurse (jetzt "Meisterkurse" genannt), die Alfred Cortot während der Ära Alfred Pochons gehalten hat ([1949](/source/CH_LAc_prg_seasons-0043) und [1950](/source/CH_LAc_prg_seasons-0055)). Die Programme beinhalten manchmal die Beschreibung eines bestimmten Kurses oder die Ankündigung einer Reihe von wöchentlichen Kursen, die von einem einzelnen Lehrer gehalten werden (z.B. [der Sonatenkurs](/source/CH_LAc_prg_seasons0182), der während des Studienjahres 1963-1964 von Paul-André Gaillard gegeben wurde).
 
 #### Donnerstagskonzerte
 
