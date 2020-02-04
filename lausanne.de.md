@@ -11,7 +11,7 @@ Nur die Programme, die zu den ersten drei Sammlungen gehören, können in der HE
 
 Es liegt auf der Hand, dass die hier digitalisierten Programme nicht alle Veranstaltungen der HEMU-CL seit ihrer Gründung darstellen, sondern vielmehr diejenigen, die aus verschiedenen Gründen erhalten geblieben sind: zu Konservierungszwecken, im Verwaltungsarchiv oder als Probedrucke (z.B. das Programm der [Preisverleihung 1968](/source/CH_LAc_prg_palmares-0010)). Es gibt zwei Lücken in ihrer zeitlichen Abfolge, die erste von 1900 bis 1924 (mit Ausnahme eines einzigen [1921 gegebenen Recital](/source/CH_LAc_prg_dates-0062)) und die zweite von 1974 bis 1983, wobei die neunzehn Jahre zwischen der Gründung der HEMU-CL im Jahr 1861 und dem [ersten digitalisierten Programm](/source/CH_LAc_prg_dates-0001) nicht mitgezählt werden.
 
-#### Die Reihe
+#### Die Reihen
 
 Die Datenbank _onstage_ gruppiert die Dokumente in 10 Reihen: Auditionen, Prüfungen, Konzerte, Preisverleihungen, Wettbewerbe; Kurse; Donnerstagskonzerte; Mittagskonzerte; andere.  
 
@@ -43,56 +43,56 @@ Die wichtigste Serie des Fonds, beginnend 1921. Die Konzerte werden in der Regel
 * eine Sonderveranstaltung (Gedenken an den Tod eines [Komponisten](/source/CH_LAc_prg_dates-0072) oder eines [ehemaligen Professors am Konservatorium](/source/CH_LAc_prg_concerts-0012), [Einweihung eines neuen Instruments](/source/CH_LAc_prg_concerts-0033));
 * eine Sache ([Unterstützung der Lehrer-Pensionskasse](/source/CH_LAc_prg_dates-0247), "Wohltätigkeits"-Abend, [Konzert zugunsten der Nationalen Schenkung](/source/CH_LAc_prg_dates-0241)).
 
-Beachten Sie die "Austauschkonzerte", die 1933 auf Initiative der Lehrervereinigung eingerichtet wurden: die zunächst zwischen den Absolventen der HEMU-CL und denen der Ecole Normale de Musique de Paris organisiert wurde, wurde diese Praxis dann auf das [Königliche Konservatorium von Brüssel](/source/CH_LAc_prg_seasons-0104) ausgedehnt, dann an den Konservatorien von [Rouen](/source/CH_LAc_prg_seasons-0073), [Salzburg](/source/CH_LAc_prg_jeudis-0053), [Lüttich](/source/CH_LAc_prg_seasons-0053), [Lüttich](/source/CH_LAc_prg_seasons-2010), [Paris](/source/CH_LAc_prg_jeudis-0750), [L’Aquila](/source/CH_LAc_prg_concerts-0052) et [Castelfranco di Veneto](/source/CH_LAc_prg_jeudis-0630). Nous pouvons aussi relever un [concert publicitaire](/source/CH_LAc_prg_concerts-0048) pour une marque de pianos en 1995\. Les concerts servant de vitrine à l’institution bien plus que les simples auditions d’élèves, la série reflète la vie de l’HEMU-CL aux niveaux historique et politique. Les programmes permettent de trouver de nombreuses informations sur les compositeurs et les interprètes (biographies, hommages, visites et invitations), ainsi que la manière dont sont présentés les concerts—c’est aussi le cas des séries « Jeudis » et « Midis ».
+Beachten Sie die "Austauschkonzerte", die 1933 auf Initiative der Lehrervereinigung eingerichtet wurden: die zunächst zwischen den Absolventen der HEMU-CL und denen der Ecole Normale de Musique de Paris organisiert wurde, wurde diese Praxis dann auf das [Königliche Konservatorium von Brüssel](/source/CH_LAc_prg_seasons-0104) ausgedehnt, dann an den Konservatorien von [Rouen](/source/CH_LAc_prg_seasons-0073), [Salzburg](/source/CH_LAc_prg_jeudis-0053), [Lüttich](/source/CH_LAc_prg_seasons-0053), [Lüttich](/source/CH_LAc_prg_seasons-2010), [Paris](/source/CH_LAc_prg_jeudis-0750), [L’Aquila](/source/CH_LAc_prg_concerts-0052) und [Castelfranco Veneto](/source/CH_LAc_prg_jeudis-0630). Wir können auch ein [Werbekonzert](/source/CH_LAc_prg_concerts-0048) für eine Klaviermarke im Jahr 1995 feststellen. Die Konzerte dienen als Schaufenster für die Institution und sind weit mehr als nur ein Probespiel für Studenten. Die Reihe spiegelt das Leben der HEMU-CL auf historischer und politischer Ebene wider. Die Programme bieten eine Fülle von Informationen über die Komponisten und Interpreten (Biographien, Hommagen, Besuche und Einladungen) sowie über die Art und Weise, wie die Konzerte präsentiert werden - dies gilt auch für die Reihen "Jeudis" und "Midis".
 
-#### Concours
+#### Wettbewerbe
 
-Bien que dès 1924, les concours à l’intention des élèves aient été relativement nombreux, la collection HEMU-CL ne recense que 6 programmes, indiquant pour la plupart les conditions de participation, les pièces obligées et, parfois, le montant des prix. Les programmes mentionnant les prix du Comité, les prix Jacques Ehrhart, les prix de l’Association des professeurs et les prix des anciens élèves de l’HEMU- CL sont absents de la collection HEMU-CL.
+Obwohl es seit 1924 relativ viele Wettbewerbe für Studenten gibt, sind in der Sammlung der HEMU-CL nur 6 Programme aufgeführt, die meist die Teilnahmebedingungen, die Pflichtstücke und manchmal auch die Höhe der Preise angeben. Die Programme, in denen die Preise des Komitees, die Jacques-Ehrhart-Preise, die Preise der Lehrervereinigung und die HEMU-CL-Alumni-Preise erwähnt werden, sind in der HEMU-CL-Sammlung nicht vorhanden.
 
-Liste de la série « concours » (liens) :
+Liste der Reihe "Wettbewerbe" (Links) :
 
-*   [29 octobre 1962](/source/CH_LAc_prg_concours-0001) ;
-*   [23 octobre 1994](/source/CH_LAc_prg_concours-0002) ;
-*   [14 février 1995](/source/CH_LAc_prg_concours-0005) ;
-*   [06 février 1997](/source/CH_LAc_prg_concours-0005) ;
-*   [14 février 1997](/source/CH_LAc_prg_concours-0013) ;
-*   [26 octobre 1997](/source/CH_LAc_prg_concours-0017).
+* [29. Oktober 1962](/source/CH_LAc_prg_Wettbewerb-0001) ;
+* [23. Oktober 1994](/source/CH_LAc_prg_Wettbewerb-0002) ;
+* 14. Februar 1995](/source/CH_LAc_prg_Wettbewerb-0005) ;
+* 06. Februar 1997](/source/CH_LAc_LAc_prg_Wettbewerb-0005) ;
+* 14. Februar 1997](/source/CH_LAc_LAc_prg_Wettbewerb-0013) ;
+* 26. Oktober 1997](/source/CH_LAc_prg_Wettbewerb-0017).
 
-#### Palmarès
+#### Preisverleihungen
 
-Série regroupant les programmes des cérémonies de palmarès, instaurées par Charles Troyon et destinées à clôturer l’année. Au fil du temps, la cérémonie gagne en « officialité » : le rapport de la direction s’enrichit dans les années 1962 de [l’allocution du Président du Comité](/source/CH_LAc_prg_palmares-0001), puis du [Vice-Président du Conseil de fondation](/source/CH_LAc_prg_palmares-0010) dès 1968\. La cérémonie comprend aussi les remises de diplômes et de prix et entre 3 et 12 pièces musicales. La collection HEMU-CL contient 14 programmes allant de 1926 à 1971.  
+Eine Reihe von Programmen für die Preisverleihungszeremonien, die von Charles Troyon eingeführt wurden und das Jahr abschließen sollen. Im Laufe der Zeit wurde die Zeremonie immer "offizieller": 1962 wurde der Tätigkeitsbericht durch eine [Ansprache des Vorstandsvorsitzenden](/source/CH_LAc_prg_palmares-0001) und 1968 des [stellvertretenden Vorsitzenden des Stiftungsrates](/source/CH_LAc_prg_palmares-0010) bereichert. Die Zeremonie umfasst auch die Verleihung von Diplomen und Preisen sowie zwischen 3 und 12 Musikstücken. Die Sammlung der HEMU-CL enthält 14 Programme von 1926 bis 1971.
 
-Liste de la série « palmarès » (liens) :
+Liste der "palmarès"-Reihe (Links) :
 
-*   [2 juillet 1907](/source/CH_LAc_prg_fond_prive-0002) ;
-*   [1 juillet 1927](/source/CH_LAc_prg_fond_prive-0006) ;
-*   [29 juin 1928](/source/CH_LAc_prg_fond_prive-0018) ;
-*   [05 juillet 1962](/source/CH_LAc_prg_palmares-0001) ;
-*   [06 juillet 1964](/source/CH_LAc_prg_palmares-0007) ;
-*   [3 juillet 1968](/source/CH_LAc_prg_palmares-0010) ;
-*   [8 juillet 1969](/source/CH_LAc_prg_palmares-0013) ;
-*   [5 juillet 1971](/source/CH_LAc_prg_saisons-0229) ;
-*   [2 juillet 1986](/source/CH_LAc_prg_palmares-0015) ;
-*   [1 juillet 1987](/source/CH_LAc_prg_palmares-0019) ;
-*   [28 juin 1989](/source/CH_LAc_prg_palmares-0023) ;
-*   [27 juin 1992](/source/CH_LAc_prg_palmares-0027) ;
-*   [27 juin 1998](/source/CH_LAc_prg_palmares-0031) ;
+* [2. Juli 1907](/source/CH_LAc_prg_privater_Fonds-0002);
+* [1. Juli 1927](/source/CH_LAc_prg_privater_Hintergrund_0006);
+* [29. Juni 1928](/source/CH_LAc_LAc_prg_priv_fund-0018);
+* [05. Juli 1962](/source/CH_LAc_prg_priv-0001);
+* [06. Juli 1964](/source/CH_LAc_prg_palmares-0007);
+* [3. Juli 1968](/source/CH_LAc_prg_palmares-0010);
+* [8. Juli 1969](/source/CH_LAc_LAc_prg_palmares-0013);
+* [5. Juli 1971](/source/CH_LAc_prg_saisons-0229);
+* [2. Juli 1986](/source/CH_LAc_prg_palmares-0015);
+* [1. Juli 1987](/source/CH_LAc_LAc_prg_palmares-0019);
+* [28. Juni 1989](/source/CH_LAc_LAc_prg_palmares-0023);
+* [27. Juni 1992](/source/CH_LAc_LAc_prg_palmares-0027);
+* [27. Juni 1998](/source/CH_LAc_prg_palmares-0031).
 
-#### Conférences
+#### Vorträge
 
-Elles sont au nombre de 116 ; la plus ancienne de la collection date de [1939](/source/CH_LAc_prg_dates-0190). Sur des sujets musicographiques variés ([vie des compositeurs](/source/CH_LAc_prg_jeudis-0309), [esthétique de la musique](/source/CH_LAc_prg_jeudis-0732), [analyse d’œuvres musicales](/source/CH_LAc_prg_jeudis-0530), [techniques interprétatives](/source/CH_LAc_prg_jeudis-0703), [considérations sur la musique contemporaine](/source/CH_LAc_prg_saisons-0156), [organologie](/source/CH_LAc_prg_jeudis-0169), [ethnomusicologie](/source/CH_LAc_prg_jeudis-0185)), elles sont le reflet des préoccupations et des intérêts de chaque époque. La teneur des conférences se trouve résumée dans le titre ou dans un texte bref au verso du programme numérisé (par ex. la table ronde sur l’appréhension de la musique atonale, [6 décembre 1990](/source/CH_LAc_prg_jeudis-0342)). Dans les années 1940, on note une claire prédominance des « causeries-auditions », au cours desquelles l’interprète commente l’œuvre qu’il joue (par ex. Denise Vidal commente l’op. 120 de Beethoven, [18 février 1944](/source/CH_LAc_prg_saisons-0008)). Le rôle de commentateur peut aussi être confié à deuxième intervenant. Les nombreuses conférences s’inscrivant dans les « Jeudis du Conservatoire » mettent généralement à l’affiche le conférencier de manière isolée. A noter aussi les séries de conférences qui prennent place sur plusieurs jours (évènements parfois en collaboration avec d’autres institutions ou des associations culturelles, comme par exemple l'Université de Lausanne pour le colloque [Guy de Pourtalès](/source/CH_LAc_prg_concerts-0044) en 1994).
+Es gibt 116 von ihnen; der älteste in der Sammlung stammt aus [1939](/quelle/CH_LAc_prg_dates-0190). Sie reflektieren über verschiedene musikwissenschaftliche Themen ([Leben der Komponisten](/Quelle/CH_LAc_LAc_prg_jeudis-0309), [Musikästhetik](/Quelle/CH_LAc_prg_jeudis-0732), [Analyse von Musikwerken](/Quelle/CH_LAc_prg_jeudis-0530), [Interpretationstechniken](/Quelle/CH_LAc_prg_jeudis-0703), [Überlegungen zur zeitgenössischen Musik](/Quelle/CH_LAc_prg_saisons-0156), [Organologie](/Quelle/CH_LAc_prg_jeudis-0169), [Ethnomusikologie](/Quelle/CH_LAc_prg_jeudis-0185)) die Anliegen und Interessen der jeweiligen Epoche wider. Der Inhalt der Vorträge wird im Titel oder in einem kurzen Text auf der Rückseite des digitalisierten Programms zusammengefasst (z.B. Runder Tisch zur Wahrnehmung der atonalen Musik, [6. Dezember 1990](/Quelle/CH_LAc_prg_jeudis-0342)). In den 1940er Jahren gab es eine klare Vorherrschaft von "Vortrags-Auditionen", in denen der Interpret das Werk, das er spielte, kommentierte (z.B. Denise Vidal kommentiert Beethovens Op. 120, [18. Februar 1944](/source/CH_LAc_prg_seasons-0008)). Die Rolle des Kommentators kann auch einem zweiten Sprecher übertragen werden. Bei den zahlreichen Vorträgen, die zu den "Donnerstagen am Konservatorium" gehören, ist der Referent in der Regel alleine. Zu beachten sind auch die mehrtägigen Vortragsreihen (manchmal in Zusammenarbeit mit anderen Institutionen oder Kulturvereine, wie z.B. der Universität Lausanne für das Kolloquium [Guy de Pourtalès](/quelle/CH_LAc_prg_concerts-0044) im Jahr 1994).
 
-#### Cours
+#### Kurse
 
-Cette série regroupe les cours publics d’interprétation et les cours sur des sujets historiques qui s’apparenteraient à des conférences sur plusieurs jours. A noter les deux cours publics (que l’on nommerait aujourd’hui « masterclasses ») d’Alfred Cortot sous l’ère d’Alfred Pochon ([1949](/source/CH_LAc_prg_saisons-0043) et [1950](/source/CH_LAc_prg_saisons-0055)). Les programmes sont parfois la description d’un cours en particulier, ou bien l’annonce d’une série de cours hebdomadaires donnés par un seul professeur (par ex. [le cours sur la sonate](/source/CH_LAc_prg_saisons-0182) donné durant l’année académique 1963-1964 par Paul-André Gaillard).
+Diese Reihe umfasst öffentliche Interpretationskurse und Kurse zu historischen Themen, die ähnlich wie mehrtägige Vorträge sind. Zu beachten sind die beiden öffentlichen Kurse (jetzt "Meisterkurse" genannt), die Alfred Cortot während der Ära Alfred Pochons gehalten hat ([1949](/Quelle/CH_LAc_prg_seasons-0043) und [1950](/Quelle/CH_LAc_prg_seasons-0055)). Programme sind manchmal die Beschreibung eines bestimmten Kurses oder die Ankündigung einer Reihe von wöchentlichen Kursen, die von einem einzelnen Lehrer gehalten werden (z.B. ein Studiengang in einem bestimmten Fach oder eine Reihe von wöchentlichen Kursen, die von einem einzelnen Lehrer gehalten werden). (z.B. [der Sonatenkurs](/Quelle/CH_LAc_prg_seasons0182), der während des Studienjahres 1963-1964 von Paul-André Gaillard gegeben wurde).
 
-#### Jeudis
+#### Donnerstags
 
-Créés en 1984 sous l’égide de Jean-Jacques Rapin, les « Jeudis du Conservatoire » ont pour mission de développer le pendant intellectuel et culturel de l’institution. Ce projet ambitieux invite des personnalités du monde de la musique et donne aux professeurs et aux élèves de l’école un espace où se produire. Les « Jeudis » se construisent très souvent autour d’un sujet précis, mais peuvent aussi prendre la forme d’un récital de musique (par ex. le [5 décembre 1985](/source/CH_LAc_prg_jeudis-0069)), d’un cours public (par ex. le [23 avril 1987](/source/CH_LAc_prg_jeudis-0173)) ou d’un spectacle (par ex. le [22 novembre 1990](/source/CH_LAc_prg_jeudis-0333)). Les sujets touchent à des thématiques aussi variées que l’histoire de la musique (les portraits de musiciens sont fréquents (par ex. celui d'[Arthur Honegger](/source/CH_LAc_prg_jeudis-0481)), [le dialogue entre les arts](/source/CH_LAc_prg_jeudis-0682), [l’organologie](/source/CH_LAc_prg_jeudis-0402), la santé physique des musiciens (par ex. [le mal de dos](/source/CH_LAc_prg_jeudis-0422)) et bien d’autres considérations en lien avec la musique. Les programmes de cette série sont ainsi systématiquement reliés à une autre série, concerts, conférences ou autres. Les « Jeudis » s’achèvent en 1998, en même temps que la direction de Rapin. La collection compte une majorité des programmes. Bien que certains soient manquants, il est possible de reconstituer l’ensemble de la programmation en consultant la dernière page des programmes numérisés, destinée à annoncer les suivants (par ex. le programme du [15 janvier 1987](/source/CH_LAc_prg_jeudis-0145) et les suivants mentionnent la conférence de Rudolf Kelterborn du 25 février).
+Das 1984 unter der Ägide von Jean-Jacques Rapin gegründete "Jeudis du Conservatoire" hat die Aufgabe, das intellektuelle und kulturelle Pendant der Institution zu entwickeln. Dieses ehrgeizige Projekt lädt Persönlichkeiten aus der Welt der Musik ein und gibt den Lehrern und Schülern der Schule einen Auftrittsraum. Die "Jeudis" sind sehr oft um ein bestimmtes Thema herum aufgebaut, können aber auch die Form eines Musikkonzertes annehmen (z.B. ein Konzert, ein Konzert im Konservatorium). Donnerstage" sind oft um ein bestimmtes Thema herum aufgebaut, können aber auch die Form eines Musikkonzertes (z.B. [5. Dezember 1985](/quelle/CH_LAc_LAc_prg_jeudis-0069)), eines öffentlichen Vortrags (z.B. [23. April 1987](/quelle/CH_LAc_prg_jeudis-0173)) oder einer Aufführung (z.B. [22. November 1990](/quelle/CH_LAc_prg_jeudis-0333)) annehmen.  (z.B. [Rückenschmerzen](/Quelle/CH_LAc_prg_jeudis-0422)) und viele andere musikbezogene Überlegungen. Die Programme dieser Reihe sind somit systematisch mit einer anderen Reihe, Konzerten, Vorträgen oder anderen Veranstaltungen verknüpft. Die "Donnerstage" endeten 1998, zur gleichen Zeit wie die Leitung von Rapin. Die Sammlung umfasst einen Großteil der Programme. Obwohl einige fehlen, ist es möglich, das gesamte Programm zu rekonstruieren, indem man die letzte Seite der digitalisierten Programme konsultiert, die die folgenden ankündigen soll (z.B. das Programm vom [15. Januar 1987](/quelle/CH_LAc_prg_jeudis-0145) und die folgenden erwähnen Rudolf Kelterborns Vortrag vom 25. Februar).
 
-#### Midi-concerts
+##### Mittagskonzerte
 
-Sorte de prolongation par Olivier Cuendet des « Jeudis du Conservatoire », les « Midi-concerts » mettent en scène les musiciens du Conservatoire et d’ailleurs. A leur différence, ils se concentrent uniquement sur des concerts. Les 192 programmes ici numérisés ne représentent pas la totalité de la série, qui est toujours d’actualité et, par conséquent, continue de s’agrandir sans être insérée dans la base de données _onstage_.
+Eine Art Erweiterung der "Donnerstage am Konservatorium" durch Olivier Cuendet, die "Midi-Konzerte" mit Musikern aus dem Konservatorium und anderen Bereichen. Im Gegensatz zu ihnen konzentrieren sie sich nur auf Konzerte. Die 192 hier digitalisierten Programme repräsentieren nicht die gesamte Serie, die noch immer aktuell ist und daher weiter wächst, ohne in die Datenbank _onstage_ eingefügt zu werden.
 
 #### Autres
 
