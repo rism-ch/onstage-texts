@@ -12,3 +12,5 @@
 * "Suchen" + "Index": eine oder mehrere Suchbegriff(e) in einem bestimmten Register ("Komponisten", "Interpreten"...);
 * "Suchen" + "Datum": ein oder mehrere Suchbegriff(e) im Volltextmodus aber in einem begrenzten Zeitraum;
 * "Browse" ermöglicht den Zugriff durch Blättern (Scrollen) in verschiedenen Registern.
+
+Bitte beachten Sie, dass einige Sammlungen keinen Interpreten-Index haben. Versuchen Sie es auch mit der Volltextsuche!
