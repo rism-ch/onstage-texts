@@ -54,8 +54,8 @@ List of the "competition" series (links):
 * [29 October 1962](/source/CH_LAc_prg_contest-0001);
 * [23 October 1994](/source/CH_LAc_prg_contest-0002);
 * [14 February 1995](/source/CH_LAc_prg_Competition-0005);
-* [6 February 1997](/source/CH_LAc_LAc_prg_Competition-0005);
-* [14 February 1997](/source/CH_LAc_LAc_prg_Competition-0013);
+* [6 February 1997](/source/CH_prg_Competition-0005);
+* [14 February 1997](/source/CH_prg_Competition-0013);
 * [26 October 1997](/source/CH_LAc_prg_Competition-0017).
 
 #### Award ceremonies
@@ -66,21 +66,21 @@ List of the "palmarès" series (links):
 
 * [2 July 1907](/source/CH_LAc_prg_fond_prive-0002);
 * [1 July 1927](/source/CH_LAc_prg_private_background-0006);
-* [29 June 1928](/source/CH_LAc_LAc_prg_priv_fund-0018);
+* [29 June 1928](/source/CH_LAc_prg_priv_fund-0018);
 * [5 July 1962](/source/CH_LAc_prg_priv-0001);
 * [6 July 1964](/source/CH_LAc_prg_palmares-0007);
 * [3 July 1968](/source/CH_LAc_prg_palmares-0010);
-* [8 July 1969](/source/CH_LAc_LAc_prg_palmares-0013);
+* [8 July 1969](/source/CH_LAc_prg_palmares-0013);
 * [5 July 1971](/source/CH_LAc_prg_seasons-0229);
 * [2 July 1986](/source/CH_LAc_prg_palmares-0015);
-* [1 July 1987](/source/CH_LAc_LAc_prg_palmares-0019);
-* [28 June 1989](/source/CH_LAc_LAc_prg_palmares-0023);
-* [27 June 1992](/source/CH_LAc_LAc_prg_palmares-0027);
+* [1 July 1987](/source/CH_LAc_prg_palmares-0019);
+* [28 June 1989](/source/CH_LAc_prg_palmares-0023);
+* [27 June 1992](/source/CH_LAc_prg_palmares-0027);
 * [27 June 1998](/source/CH_LAc_prg_palmares-0031).
 
 #### Conferences
 
-There are 116 of them; the oldest in the collection dates from [1939](/source/CH_LAc_prg_dates-0190). On various musicological subjects ([life of composers](/source/CH_LAc_LAc_prg_jeudis-0309), [aesthetics of music](/source/CH_LAc_prg_jeudis-0732), [analysis of musical works](/source/CH_LAc_prg_jeudis-0530), [interpretive techniques](/source/CH_LAc_prg_jeudis-0703), [considerations on contemporary music](/source/CH_LAc_prg_seasons-0156), [organology](/source/CH_LAc_prg_jeudis-0169), [ethnomusicology](/source/CH_LAc_prg_jeudis-0185)), they reflect the concerns and interests of each era. The content of the lectures is summarized in the title or in a short text on the back of the digitized programme (e.g., Round Table on the Apprehension of Atonal Music, [6 December 1990](/source/CH_LAc_prg_jeudis-0342)). In the 1940s, there was a clear predominance of "lecture-auditions", in which the performer commented on the work he was playing (e.g., Denise Vidal comments on Beethoven's Op. 120, [18 February 1944](/source/CH_LAc_prg_seasons-0008)). The role of commentator can also be given to a second speaker. The numerous lectures that are part of the "Thursdays at the Conservatory" usually feature the speaker alone. Note also the series of lectures that take place over several days (sometimes in collaboration with other institutions or cultural associations, such as the University of Lausanne for the colloquium [Guy de Pourtalès](/source/CH_LAc_prg_concerts-0044) in 1994).
+There are 116 of them; the oldest in the collection dates from [1939](/source/CH_LAc_prg_dates-0190). On various musicological subjects ([life of composers](/source/CH_LAc_prg_jeudis-0309), [aesthetics of music](/source/CH_LAc_prg_jeudis-0732), [analysis of musical works](/source/CH_LAc_prg_jeudis-0530), [interpretive techniques](/source/CH_LAc_prg_jeudis-0703), [considerations on contemporary music](/source/CH_LAc_prg_seasons-0156), [organology](/source/CH_LAc_prg_jeudis-0169), [ethnomusicology](/source/CH_LAc_prg_jeudis-0185)), they reflect the concerns and interests of each era. The content of the lectures is summarized in the title or in a short text on the back of the digitized programme (e.g., Round Table on the Apprehension of Atonal Music, [6 December 1990](/source/CH_LAc_prg_jeudis-0342)). In the 1940s, there was a clear predominance of "lecture-auditions", in which the performer commented on the work he was playing (e.g., Denise Vidal comments on Beethoven's Op. 120, [18 February 1944](/source/CH_LAc_prg_seasons-0008)). The role of commentator can also be given to a second speaker. The numerous lectures that are part of the "Thursdays at the Conservatory" usually feature the speaker alone. Note also the series of lectures that take place over several days (sometimes in collaboration with other institutions or cultural associations, such as the University of Lausanne for the colloquium [Guy de Pourtalès](/source/CH_LAc_prg_concerts-0044) in 1994).
 
 #### Courses
 
@@ -88,7 +88,7 @@ This series includes public interpretation courses and courses on historical sub
 
 #### Thursday concerts
 
-Created in 1984 under the aegis of Jean-Jacques Rapin, the mission of the "Jeudis du Conservatoire" is to develop the intellectual and cultural counterpart of the institution. This ambitious project invites personalities from the world of music and gives the school's teachers and students a space to perform. The "Jeudis" are very often built around a specific subject, but can also take the form of a music recital (e.g., [5 December 1985](/source/CH_LAc_LAc_prg_jeudis-0069)), a public lecture (e.g., [23 April 1987](/source/CH_LAc_prg_jeudis-0173)), or a performance (e.g., [22 November 1990](/source/CH_LAc_prg_jeudis-0333)). Topics range from music history (portraits of musicians are common, e.g., [Arthur Honegger](/source/CH_LAc_LAc_prg_jeudis-0481)), to the [dialogue between the arts](/source/CH_LAc_prg_jeudis-0682), [organology](/source/CH_LAc_prg_jeudis-0402), the physical health of musicians (e.g., [back pain](/source/CH_LAc_prg_jeudis-0422)) and many other music-related considerations. The programmes in this series are thus systematically linked to another series, concerts, lectures or other events. The "Thursdays" ended in 1998, at the same time as Rapin's direction. The collection includes a majority of the programmes. Although some are missing, it is possible to reconstruct the entire series by consulting the last page of the digitized programmes, announcing the following ones (e.g., the programme of [15 January 1987](/source/CH_LAc_prg_jeudis-0145) and the following ones mention Rudolf Kelterborn's lecture of 25 February).
+Created in 1984 under the aegis of Jean-Jacques Rapin, the mission of the "Jeudis du Conservatoire" is to develop the intellectual and cultural counterpart of the institution. This ambitious project invites personalities from the world of music and gives the school's teachers and students a space to perform. The "Jeudis" are very often built around a specific subject, but can also take the form of a music recital (e.g., [5 December 1985](/source/CH_LAc_prg_jeudis-0069)), a public lecture (e.g., [23 April 1987](/source/CH_LAc_prg_jeudis-0173)), or a performance (e.g., [22 November 1990](/source/CH_LAc_prg_jeudis-0333)). Topics range from music history (portraits of musicians are common, e.g., [Arthur Honegger](/source/CH_LAc_prg_jeudis-0481)), to the [dialogue between the arts](/source/CH_LAc_prg_jeudis-0682), [organology](/source/CH_LAc_prg_jeudis-0402), the physical health of musicians (e.g., [back pain](/source/CH_LAc_prg_jeudis-0422)) and many other music-related considerations. The programmes in this series are thus systematically linked to another series, concerts, lectures or other events. The "Thursdays" ended in 1998, at the same time as Rapin's direction. The collection includes a majority of the programmes. Although some are missing, it is possible to reconstruct the entire series by consulting the last page of the digitized programmes, announcing the following ones (e.g., the programme of [15 January 1987](/source/CH_LAc_prg_jeudis-0145) and the following ones mention Rudolf Kelterborn's lecture of 25 February).
 
 #### Midday concerts
 
