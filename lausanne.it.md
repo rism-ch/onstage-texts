@@ -54,8 +54,8 @@ Elenco della serie "concorso" (link):
 * [29 ottobre 1962](/source/CH_LAc_prg_contest-0001);
 * [23 ottobre 1994](/source/CH_LAc_prg_contest-0002);
 * [14 febbraio 1995](/source/CH_LAc_prg_Competition-0005);
-* [6 febbraio 1997](/source/CH_LAc_LAc_LAc_prg_Competition-0005);
-* [14 febbraio 1997](/source/CH_LAc_LAc_LAc_prg_Competition-0013);
+* [6 febbraio 1997](/source/CH_LAc_prg_Competition-0005);
+* [14 febbraio 1997](/source/CH_LAc_prg_Competition-0013);
 * [26 ottobre 1997](/source/CH_LAc_prg_Competition-0017).
 
 #### Premiazioni
@@ -66,21 +66,21 @@ Elenco della serie "palmarès" (link):
 
 * [2 luglio 1907](/source/CH_LAc_prg_fond_prive-0002);
 * [1 luglio 1927](/source/CH_LAc_prg_private_background-0006);
-* [29 giugno 1928](/source/CH_LAc_LAc_LAc_prg_priv_fund-0018);
+* [29 giugno 1928](/source/CH_LAc_prg_priv_fund-0018);
 * [5 luglio 1962](/source/CH_LAc_prg_priv-0001);
 * [6 luglio 1964](/source/CH_LAc_prg_palmares-0007);
 * [3 luglio 1968](/source/CH_LAc_prg_palmares-0010);
-* [8 luglio 1969](/source/CH_LAc_LAc_LAc_prg_palmares-0013);
+* [8 luglio 1969](/source/CH_LAc_prg_palmares-0013);
 * [5 luglio 1971](/source/CH_LAc_prg_seasons-0229);
 * [2 luglio 1986](/source/CH_LAc_prg_palmares-0015);
-* [1 luglio 1987](/source/CH_LAc_LAc_LAc_prg_palmares-0019);
-* [28 giugno 1989](/source/CH_LAc_LAc_LAc_prg_palmares-0023);
-* [27 giugno 1992](/source/CH_LAc_LAc_LAc_prg_palmares-0027);
+* [1 luglio 1987](/source/CH_LAc_rg_palmares-0019);
+* [28 giugno 1989](/source/CH_LAc_prg_palmares-0023);
+* [27 giugno 1992](/source/CH_LAc_prg_palmares-0027);
 * [27 giugno 1998](/source/CH_LAc_prg_palmares-0031).
 
 #### Conferenze
 
-Ce ne sono 116; la più antica della collezione risale al [1939](/source/CH_LAc_prg_dates-0190). Su vari temi musicografici ([vita dei compositori](/source/CH_LAc_LAc_LAc_prg_jeudis-0309), [estetica della musica](/source/CH_LAc_prg_jeudis-0732), [analisi delle opere musicali](/source/CH_LAc_prg_jeudis-0530), [tecniche interpretative](/source/CH_LAc_prg_jeudis-0703), [considerazioni sulla musica contemporanea](/source/CH_LAc_prg_seasons-0156), [organologia](/source/CH_LAc_prg_jeudis-0169), [etnomusicologia](/source/CH_LAc_prg_jeudis-0185)), riflettono le preoccupazioni e gli interessi di ogni epoca. Il contenuto delle lezioni è riassunto nel titolo o in un breve testo sul retro del programma digitalizzato (ad esempio, la tavola rotonda sulla percezione della musica atonale, [6 dicembre 1990](/source/CH_LAc_prg_jeudis-0342)). Negli anni '40, c'era una netta predominanza di "lecture-auditions", in cui l'interprete commentava l'opera che stava suonando (per esempio, Denise Vidal commenta l'Op. 120 di Beethoven, [18 febbraio 1944](/source/CH_LAc_prg_seasons-0008)). Il ruolo di commentatore può essere affidato anche a un secondo relatore. Nelle numerose conferenze che fanno parte dei "Giovedì al Conservatorio" il relatore è solitamente da solo. Da notare anche la serie di conferenze che si svolgono nell'arco di più giorni (talvolta in collaborazione con altre istituzioni o associazioni culturali, come l'Università di Losanna per il colloquio [Guy de Pourtalès](/source/CH_LAc_prg_concerts-0044) del 1994).
+Ce ne sono 116; la più antica della collezione risale al [1939](/source/CH_LAc_prg_dates-0190). Su vari temi musicografici ([vita dei compositori](/source/CH_LAc_prg_jeudis-0309), [estetica della musica](/source/CH_LAc_prg_jeudis-0732), [analisi delle opere musicali](/source/CH_LAc_prg_jeudis-0530), [tecniche interpretative](/source/CH_LAc_prg_jeudis-0703), [considerazioni sulla musica contemporanea](/source/CH_LAc_prg_seasons-0156), [organologia](/source/CH_LAc_prg_jeudis-0169), [etnomusicologia](/source/CH_LAc_prg_jeudis-0185)), riflettono le preoccupazioni e gli interessi di ogni epoca. Il contenuto delle lezioni è riassunto nel titolo o in un breve testo sul retro del programma digitalizzato (ad esempio, la tavola rotonda sulla percezione della musica atonale, [6 dicembre 1990](/source/CH_LAc_prg_jeudis-0342)). Negli anni '40, c'era una netta predominanza di "lecture-auditions", in cui l'interprete commentava l'opera che stava suonando (per esempio, Denise Vidal commenta l'Op. 120 di Beethoven, [18 febbraio 1944](/source/CH_LAc_prg_seasons-0008)). Il ruolo di commentatore può essere affidato anche a un secondo relatore. Nelle numerose conferenze che fanno parte dei "Giovedì al Conservatorio" il relatore è solitamente da solo. Da notare anche la serie di conferenze che si svolgono nell'arco di più giorni (talvolta in collaborazione con altre istituzioni o associazioni culturali, come l'Università di Losanna per il colloquio [Guy de Pourtalès](/source/CH_LAc_prg_concerts-0044) del 1994).
 
 #### Corsi
 
@@ -88,7 +88,7 @@ Questa serie comprende corsi di interpretazione pubblica e corsi su argomenti st
 
 #### Giovedì al Conservatorio
 
-Creati nel 1984 sotto l'egida di Jean-Jacques Rapin, la missione dei "Jeudis du Conservatoire" è quella di sviluppare la controparte intellettuale e culturale dell'istituzione. Questo ambizioso progetto invita personalità del mondo della musica e offre agli insegnanti e agli studenti della scuola uno spazio per esibirsi. I "Jeudis" sono molto spesso costruiti attorno a un tema specifico, ma possono anche assumere la forma di un recital musicale (ad esempio, [5 dicembre 1985](/source/CH_LAc_LAc_prg_jeudis-0069)), di una conferenza pubblica (per esempio, [23 aprile 1987](/source/CH_LAc_prg_jeudis-0173)), o di una performance (per esempio, [22 novembre 1990](/source/CH_LAc_prg_jeudis-0333)). Gli argomenti vanno dalla storia della musica (i ritratti dei musicisti sono comuni, per esempio [Arthur Honegger](/source/CH_LAc_LAc_LAc_prg_jeudis-0481)), al [dialogo tra le arti](/source/CH_LAc_prg_jeudis-0682), all'[organologia](/source/CH_LAc_prg_jeudis-0402), alla salute fisica dei musicisti (per esempio, [mal di schiena](/source/CH_LAc_prg_jeudis-0422)) e molte altre considerazioni relative alla musica. I programmi di questa serie sono quindi sistematicamente collegati ad un'altra serie, concerti, conferenze o altri eventi. I "Giovedì" si sono conclusi nel 1998, in concomitanza con la direzione di Rapin. La collezione comprende la maggior parte dei programmi. Sebbene ne manchino alcuni, è possibile ricostruire l'intera serie consultando l'ultima pagina dei programmi digitalizzati, che ha lo scopo di annunciare i seguenti (ad esempio, il programma del [15 gennaio 1987](/source/CH_LAc_prg_jeudis-0145) e i seguenti citano la conferenza di Rudolf Kelterborn del 25 febbraio).
+Creati nel 1984 sotto l'egida di Jean-Jacques Rapin, la missione dei "Jeudis du Conservatoire" è quella di sviluppare la controparte intellettuale e culturale dell'istituzione. Questo ambizioso progetto invita personalità del mondo della musica e offre agli insegnanti e agli studenti della scuola uno spazio per esibirsi. I "Jeudis" sono molto spesso costruiti attorno a un tema specifico, ma possono anche assumere la forma di un recital musicale (ad esempio, [5 dicembre 1985](/source/CH_prg_jeudis-0069)), di una conferenza pubblica (per esempio, [23 aprile 1987](/source/CH_LAc_prg_jeudis-0173)), o di una performance (per esempio, [22 novembre 1990](/source/CH_LAc_prg_jeudis-0333)). Gli argomenti vanno dalla storia della musica (i ritratti dei musicisti sono comuni, per esempio [Arthur Honegger](/source/CH_LAc_prg_jeudis-0481)), al [dialogo tra le arti](/source/CH_LAc_prg_jeudis-0682), all'[organologia](/source/CH_LAc_prg_jeudis-0402), alla salute fisica dei musicisti (per esempio, [mal di schiena](/source/CH_LAc_prg_jeudis-0422)) e molte altre considerazioni relative alla musica. I programmi di questa serie sono quindi sistematicamente collegati ad un'altra serie, concerti, conferenze o altri eventi. I "Giovedì" si sono conclusi nel 1998, in concomitanza con la direzione di Rapin. La collezione comprende la maggior parte dei programmi. Sebbene ne manchino alcuni, è possibile ricostruire l'intera serie consultando l'ultima pagina dei programmi digitalizzati, che ha lo scopo di annunciare i seguenti (ad esempio, il programma del [15 gennaio 1987](/source/CH_LAc_prg_jeudis-0145) e i seguenti citano la conferenza di Rudolf Kelterborn del 25 febbraio).
 
 #### Concerti di mezzogiorno
 
