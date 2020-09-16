@@ -34,7 +34,7 @@ _onstage_ est une base de données qui recense et publie les programmes des acti
 				<a href="http://www.rism-ch.org" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-rism.png" width="80px" border="0"></a>
 			</td>
 			<td align="center">
-				<a href="http://www.hemu.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cdl-hemu.jpg" width="150px" border="0"></a>
+				<a href="http://www.hemu.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cdl-hemu.png" width="150px" border="0"></a>
 			</td>
 			<td align="center">
 				<a href="http://www.hes-so.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hesso-s.png" width="100px" border="0"></a>
