@@ -1,4 +1,4 @@
-## Description of La Musicale collection
+## Description
 
 Attached to the Geneva Library since 1998, [La Musicale](www.bge-geneve.ch/musicale) is a public music lending library which also has a heritage collection. Among other things, it preserves a rich collection of more than 20,000 concert and theatre programmes from Geneva from the 19th century to the present day. This ephemera collection – one of the library&#39;s centres of excellence – is a representative reflection of Geneva&#39;s musical life.
 
