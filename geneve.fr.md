@@ -1,4 +1,4 @@
-# Description
+## Description
 Au début des années 1980, Jacques Horneffer, bibliothécaire du Conservatoire de Musique de Genève, découvrait une collection de programmes de concerts à Genève (conservée aujourd’hui sous la cote Rlg 35 à la Bibliothèque du Conservatoire de musique de Genève) constituée de près de 12000 unités et couvrant les années 1826 à 1940. Ces documents d’une importance exceptionnelle ont été dès que possible conditionnés dans un matériel de conservation adéquat puis, grâce à la base de données onstage initiée par la Haute Ecole de Musique de Lausanne (HEM) et le RISM Suisse, on a pu, en 2015, mettre en oeuvre leur numérisation suivie de leur mise en ligne.
 
 On ignore totalement par qui furent collectées les premières pièces de la collection - antérieures de neuf ans à la fondation du Conservatoire de Musique de Genève en 1835 – et qui furent par la suite les personnes chargées de rassembler ces documents dans des dossiers cartonnés et collés sur des onglets de papier.
