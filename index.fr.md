@@ -14,7 +14,7 @@ _onstage_ est une base de données qui recense et publie les programmes des acti
 * 405 activités liées à des cycles de concerts (« jeudis du conservatoire », « midi-concerts »…)
 *1'650 pages numérisées
 
-### Fonds Genève
+### Fonds Genève – Conservatoire
 
 * 8'904 programmes
 * 6'954 compositeurs et interprètes
@@ -25,6 +25,12 @@ _onstage_ est une base de données qui recense et publie les programmes des acti
 * plus de 400 programmes
 * plus de 2'400 compositeurs et interprètes
 * ca. 3'000 pages numérisées
+
+### Fonds Genève – La Musicale
+
+* une sélection d'environ 2'300 documents (sur 20'000)
+* de 1861 à 1945
+* salles genevoises, principalement : Victoria Hall, Cathédrale de Saint-Pierre, Conservatoire de Genève, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
 
 <!-- Old Onstage logos-->
 <div>
