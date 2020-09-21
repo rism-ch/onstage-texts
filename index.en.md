@@ -26,6 +26,12 @@ _onstage_ is a database that lists and publishes the programmes of public musica
 * more than 2'400 composers and performers
 * ca. 3'000 pages digitalized
 
+### Genève – La Musicale
+
+* a selection of about 2'300 documents (out of 20'000)
+* from 1861 to 1945
+* Geneva halls, mainly: Victoria Hall, Saint-Pierre Cathedral, Geneva Conservatory, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
+
 <!-- Old Onstage logos-->
 <div>
 	<table border="0" cellspacing="10px" style="margin: 0 auto;text-align:center">
