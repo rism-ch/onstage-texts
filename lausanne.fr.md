@@ -1,4 +1,4 @@
-### Description
+## Description
 
 La collection HEMU-CL regroupe 856 programmes des manifestations organisées par le Conservatoire de Lausanne de 1880 à 2012\. Ils proviennent de quatre fonds distincts :
 
@@ -11,17 +11,17 @@ Seuls les programmes appartenant aux trois premiers fonds sont physiquement cons
 
 De toute évidence, les programmes ici numérisés ne représentent pas la totalité des manifestations de l’HEMU-CL depuis sa fondation, mais plutôt ceux qui ont été préservés pour diverses raisons : par souci de conservation, dans les archives administratives, ou en tant qu’épreuves avant les tirages (par ex. le programme de la [cérémonie du palmarès 1968](/source/CH_LAc_prg_palmares-0010)). Leur succession chronologique présente ainsi deux vides, le premier allant de 1900 à 1924 (à l’exception d’un seul [récital donné en 1921](/source/CH_LAc_prg_dates-0062)) et le deuxième, de 1974 à 1983, cela sans compter les dix-neuf ans qui séparent la fondation de l’HEMU-CL en 1861 du [premier programme numérisé](/source/CH_LAc_prg_dates-0001).
 
-#### Les séries
+### Les séries
 
 La base de données _onstage_ regroupe les documents en 10 séries : auditions, examens, concerts, palmarès, concours ; cours ; jeudi ; midi-concerts ;autres.  
 
 Ces séries ne sont pas « excluantes », un programme peut en effet appartenir à plusieurs séries distinctes.
 
-#### Auditions
+### Auditions
 
 Au nombre de 242 et s’étendant de 1880 à 1985, les programmes des auditions concernent les prestations publiques des élèves de l’HEMU -CL. Ils contiennent un nombre particulièrement important de noms de compositeurs. Certaines pièces qui y apparaissent sont tirées de méthodes dont nous avons perdu la trace mais qu’il serait peut-être intéressant de retrouver pour y étudier l’évolution des techniques passées d’apprentissage (le prénom des compositeurs peut parfois manquer dans les index, faute d’informations complémentaires). Un examen attentif de cette série permettrait par ailleurs d’analyser les tendances dans les choix des compositeurs que l’on donnait à jouer en fonction du niveau des élèves (classes supérieures ou inférieures) sur plus d’un siècle. Les noms des professeurs sont également indexés. Les programmes des auditions organisées sous l’ère de Troyon gardent la trace écrite de ses appréciations sur les prestations des élèves, retranscrites dans l’espace « Notes » de la notice (on pourrait donner un exemple avec le programme de l’audition du [22 décembre 1938](/source/CH_LAc_prg_dates-0188), sur laquelle Troyon note « Pas brillant » à côté du nom d'une élève).
 
-#### Examens
+### Examens
 
 Série relativement courte réunissant les programmes de quatre épreuves publiques, l’une en 1971et les autres, associées à la série « Midi-concerts », dans les années 2000.
 
@@ -32,7 +32,7 @@ Liste de la série « examens » (liens) :
 *   [2 mai.2001](/source/CH_LAc_prg_midi-concerts-0074) ;
 *   [2 décembre 2009](/source/CH_LAc_prg_midi-concerts-0255).
 
-#### Concerts
+### Concerts
 
 La série la plus importante du fonds et débutant en 1921\. Les concerts sont généralement organisés et présentés en fonction :
 
@@ -45,7 +45,7 @@ La série la plus importante du fonds et débutant en 1921\. Les concerts sont g
 
 A noter les « Concerts d’échange » instaurés en 1933 sous l’impulsion de l’Association des professeurs : d’abord organisée entre les élèves diplômés de l’HEMU -CL et ceux de l’Ecole Normale de musique de Paris, cette pratique s’est ensuite élargie au [Conservatoire Royal de Bruxelles](/source/CH_LAc_prg_saisons-0104), puis aux Conservatoires de [Rouen](/source/CH_LAc_prg_saisons-0073), [Salzburg](/source/CH_LAc_prg_jeudis-0053), [Liège](/source/CH_LAc_prg_saisons-0102), [Paris](/source/CH_LAc_prg_jeudis-0750), [L’Aquila](/source/CH_LAc_prg_concerts-0052) et [Castelfranco di Veneto](/source/CH_LAc_prg_jeudis-0630). Nous pouvons aussi relever un [concert publicitaire](/source/CH_LAc_prg_concerts-0048) pour une marque de pianos en 1995\. Les concerts servant de vitrine à l’institution bien plus que les simples auditions d’élèves, la série reflète la vie de l’HEMU-CL aux niveaux historique et politique. Les programmes permettent de trouver de nombreuses informations sur les compositeurs et les interprètes (biographies, hommages, visites et invitations), ainsi que la manière dont sont présentés les concerts—c’est aussi le cas des séries « Jeudis » et « Midis ».
 
-#### Concours
+### Concours
 
 Bien que dès 1924, les concours à l’intention des élèves aient été relativement nombreux, la collection HEMU-CL ne recense que 6 programmes, indiquant pour la plupart les conditions de participation, les pièces obligées et, parfois, le montant des prix. Les programmes mentionnant les prix du Comité, les prix Jacques Ehrhart, les prix de l’Association des professeurs et les prix des anciens élèves de l’HEMU- CL sont absents de la collection HEMU-CL.
 
@@ -58,7 +58,7 @@ Liste de la série « concours » (liens) :
 *   [14 février 1997](/source/CH_LAc_prg_concours-0013) ;
 *   [26 octobre 1997](/source/CH_LAc_prg_concours-0017).
 
-#### Palmarès
+### Palmarès
 
 Série regroupant les programmes des cérémonies de palmarès, instaurées par Charles Troyon et destinées à clôturer l’année. Au fil du temps, la cérémonie gagne en « officialité » : le rapport de la direction s’enrichit dans les années 1962 de [l’allocution du Président du Comité](/source/CH_LAc_prg_palmares-0001), puis du [Vice-Président du Conseil de fondation](/source/CH_LAc_prg_palmares-0010) dès 1968\. La cérémonie comprend aussi les remises de diplômes et de prix et entre 3 et 12 pièces musicales. La collection HEMU-CL contient 14 programmes allant de 1926 à 1971.  
 
@@ -78,27 +78,27 @@ Liste de la série « palmarès » (liens) :
 *   [27 juin 1992](/source/CH_LAc_prg_palmares-0027) ;
 *   [27 juin 1998](/source/CH_LAc_prg_palmares-0031) ;
 
-#### Conférences
+### Conférences
 
 Elles sont au nombre de 116 ; la plus ancienne de la collection date de [1939](/source/CH_LAc_prg_dates-0190). Sur des sujets musicographiques variés ([vie des compositeurs](/source/CH_LAc_prg_jeudis-0309), [esthétique de la musique](/source/CH_LAc_prg_jeudis-0732), [analyse d’œuvres musicales](/source/CH_LAc_prg_jeudis-0530), [techniques interprétatives](/source/CH_LAc_prg_jeudis-0703), [considérations sur la musique contemporaine](/source/CH_LAc_prg_saisons-0156), [organologie](/source/CH_LAc_prg_jeudis-0169), [ethnomusicologie](/source/CH_LAc_prg_jeudis-0185)), elles sont le reflet des préoccupations et des intérêts de chaque époque. La teneur des conférences se trouve résumée dans le titre ou dans un texte bref au verso du programme numérisé (par ex. la table ronde sur l’appréhension de la musique atonale, [6 décembre 1990](/source/CH_LAc_prg_jeudis-0342)). Dans les années 1940, on note une claire prédominance des « causeries-auditions », au cours desquelles l’interprète commente l’œuvre qu’il joue (par ex. Denise Vidal commente l’op. 120 de Beethoven, [18 février 1944](/source/CH_LAc_prg_saisons-0008)). Le rôle de commentateur peut aussi être confié à deuxième intervenant. Les nombreuses conférences s’inscrivant dans les « Jeudis du Conservatoire » mettent généralement à l’affiche le conférencier de manière isolée. A noter aussi les séries de conférences qui prennent place sur plusieurs jours (évènements parfois en collaboration avec d’autres institutions ou des associations culturelles, comme par exemple l'Université de Lausanne pour le colloque [Guy de Pourtalès](/source/CH_LAc_prg_concerts-0044) en 1994).
 
-#### Cours
+### Cours
 
 Cette série regroupe les cours publics d’interprétation et les cours sur des sujets historiques qui s’apparenteraient à des conférences sur plusieurs jours. A noter les deux cours publics (que l’on nommerait aujourd’hui « masterclasses ») d’Alfred Cortot sous l’ère d’Alfred Pochon ([1949](/source/CH_LAc_prg_saisons-0043) et [1950](/source/CH_LAc_prg_saisons-0055)). Les programmes sont parfois la description d’un cours en particulier, ou bien l’annonce d’une série de cours hebdomadaires donnés par un seul professeur (par ex. [le cours sur la sonate](/source/CH_LAc_prg_saisons-0182) donné durant l’année académique 1963-1964 par Paul-André Gaillard).
 
-#### Jeudis
+### Jeudis
 
 Créés en 1984 sous l’égide de Jean-Jacques Rapin, les « Jeudis du Conservatoire » ont pour mission de développer le pendant intellectuel et culturel de l’institution. Ce projet ambitieux invite des personnalités du monde de la musique et donne aux professeurs et aux élèves de l’école un espace où se produire. Les « Jeudis » se construisent très souvent autour d’un sujet précis, mais peuvent aussi prendre la forme d’un récital de musique (par ex. le [5 décembre 1985](/source/CH_LAc_prg_jeudis-0069)), d’un cours public (par ex. le [23 avril 1987](/source/CH_LAc_prg_jeudis-0173)) ou d’un spectacle (par ex. le [22 novembre 1990](/source/CH_LAc_prg_jeudis-0333)). Les sujets touchent à des thématiques aussi variées que l’histoire de la musique (les portraits de musiciens sont fréquents (par ex. celui d'[Arthur Honegger](/source/CH_LAc_prg_jeudis-0481)), [le dialogue entre les arts](/source/CH_LAc_prg_jeudis-0682), [l’organologie](/source/CH_LAc_prg_jeudis-0402), la santé physique des musiciens (par ex. [le mal de dos](/source/CH_LAc_prg_jeudis-0422)) et bien d’autres considérations en lien avec la musique. Les programmes de cette série sont ainsi systématiquement reliés à une autre série, concerts, conférences ou autres. Les « Jeudis » s’achèvent en 1998, en même temps que la direction de Rapin. La collection compte une majorité des programmes. Bien que certains soient manquants, il est possible de reconstituer l’ensemble de la programmation en consultant la dernière page des programmes numérisés, destinée à annoncer les suivants (par ex. le programme du [15 janvier 1987](/source/CH_LAc_prg_jeudis-0145) et les suivants mentionnent la conférence de Rudolf Kelterborn du 25 février).
 
-#### Midi-concerts
+### Midi-concerts
 
 Sorte de prolongation par Olivier Cuendet des « Jeudis du Conservatoire », les « Midi-concerts » mettent en scène les musiciens du Conservatoire et d’ailleurs. A leur différence, ils se concentrent uniquement sur des concerts. Les 192 programmes ici numérisés ne représentent pas la totalité de la série, qui est toujours d’actualité et, par conséquent, continue de s’agrandir sans être insérée dans la base de données _onstage_.
 
-#### Autres
+### Autres
 
 Cette série regroupe les programmes dont certaines caractéristiques dépassent les séries mentionnées ci-dessus, principalement des récitations de poésie (par ex. [Jacques Chessex](/source/CH_LAc_prg_jeudis-0081)). Les autres programmes concernent trois spectacles (présentés par la Section Professionnelle d’Art Dramatique ou SPAD, issue de l’Ecole Romande d’Art Dramatique en 1969 : [le 21 novembre 1990](/source/CH_LAc_prg_jeudis-0333), [le 9 décembre 1993](/source/CH_LAc_prg_jeudis-0579), [le 7 novembre 1996](/source/CH_LAc_prg_jeudis-0715) ) et une [projection de film](/source/CH_LAc_prg_jeudis-0085).
 
-#### Lieux
+### Lieux
 
 De manière générale, les programmes mentionnent le lieu où se déroule l’événement qu’ils décrivent. Une même appellation (« Grande salle du Conservatoire » par exemple) peut renvoyer à différentes adresses selon l’époque et les déménagements de l’institution.
 
@@ -110,11 +110,11 @@ Le Conservatoire s’établit finalement à la rue de la Grotte, dans les ancien
 
 Le Casino de Montbenon constitue une annexe occasionnelle. Certains concerts ou évènements peuvent avoir lieu dans des églises ou d’autres salles de concert de la ville. Les concerts d’échange, quant à eux, ont lieu pour la moitié dans les conservatoires partenaires.
 
-#### Recherche plein-texte
+### Recherche plein-texte
 
 Les programmes constituent de riches sources d’informations, non seulement musicologiques mais aussi historiques et esthétiques. Certaines n’ont pas été consignées dans l’index mais apparaissent tout de même dans le document numérisé, telles la publicité au dos des programmes (très présente dans les années 1930, par ex. [22 décembre 1932](/source/CH_LAc_prg_dates-0108)), le prix des places (à [1.15 CHF](/source/CH_LAc_prg_saisons-0067) par exemple en 1952), la typographie ([11 janvier 1936](/source/CH_LAc_prg_dates-0151)) et le support _(_[Percu'plast!c](/source/CH_LAc_prg_midi-concerts-0066)en 2001_),_ ou encore la manière dont les informations sont présentées (le titre par exemple, qui peut être [imagé](/source/CH_LAc_prg_midi-concerts-0170) ou [formel](/source/CH_LAc_prg_dates-0120), [succinct](/source/CH_LAc_prg_jeudis-0378) ou [périphrastique](/source/CH_LAc_prg_midi-concerts-0019)). Les élèves ayant participé à des auditions sont trop nombreux pour que leurs noms soient indexés, à moins qu’ils aient donné des récitals. Dans la série « Jeudis », les mots du directeur J[ean-Jacques Rapin et de Sabine de Meuron](/source/CH_LAc_prg_jeudis-0001) puis de [Fabienne Siegwart-Cornaz](/source/CH_LAc_prg_jeudis-0342), présidentes successives de l’Association des Amis du Conservatoire de Lausanne, ne sont répertoriés que dans un seul programme, car ils sont repris à l’identique dans les autres.
 
-#### Les compositeurs nommés dans les programmes
+### Les compositeurs nommés dans les programmes
 
 J. S. Bach est sans conteste le compositeur le plus joué dans l’institution ; son nom apparaît sur environ 30% des programmes recensés. Il devance ainsi Beethoven (29%), Mozart (24%), Chopin (22%), Schumann (19%), Schubert (15%) et Brahms (13%). On peut aisément relier cette tête de liste avec la nette prédominance des cours de piano sur ceux des autres instruments au Conservatoire.
 
