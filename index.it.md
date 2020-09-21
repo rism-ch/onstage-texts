@@ -14,7 +14,7 @@ _onstage_ è una banca dati che elenca e pubblica i programmi delle attività mu
 * 405 attività legate ai cicli di concerti ("giovedì al conservatorio", "pranzo-concerto" ...)
 * 1'650 pagine scansionate
 
-### Collezione di Ginevra
+### Collezione di Ginevra – Conservatoire
 
 * 8'904 programmi
 * 6'954 compositori e interpreti
@@ -25,6 +25,12 @@ _onstage_ è una banca dati che elenca e pubblica i programmi delle attività mu
 * oltre 400 programmi
 * oltre 2'400 compositori e interpreti
 * circa 3'000 pagine scansionate
+
+### Collezione di Ginevra – La Musicale
+
+* una selezione di circa 2'300 documenti (su 20'000)
+* dal 1861 al 1945
+* Sale di Ginevra, principalmente: Victoria Hall, Cattedrale di Saint-Pierre, Conservatorio di Ginevra, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
 
 <!-- Old Onstage logos-->
 <div>
