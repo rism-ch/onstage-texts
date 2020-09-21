@@ -13,7 +13,7 @@ _onstage_ ist eine Datenbank, die die Programme der öffentlichen musikalischen 
 * 405 Aktivitäten in Verbindung mit Konzertzyklen (“jeudis du conservatoire”, “midi-concerts”…)
 * 1'650 digitalisierte Seiten
 
-### Sammlung Genf
+### Sammlung Genf – Conservatoire
 
 * 8'904 Programme
 * 6'954 Komponisten und Interpreten
