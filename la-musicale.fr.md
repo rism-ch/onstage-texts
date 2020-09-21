@@ -1,4 +1,4 @@
-## Description de la collection de La Musicale
+## Description
 
 Rattachée depuis 1998 à la Bibliothèque de Genève, [La Musicale](www.bge-geneve.ch/musicale) est une bibliothèque publique de prêt de partitions qui possède également un fonds patrimonial. Elle conserve entre autres une riche collection de plus de 20&#39;000 programmes de concerts et de spectacles genevois du 19ème siècle à nos jours. Ce fonds d&#39;ephemera - un des pôles d&#39;excellence de la bibliothèque - est un reflet représentatif de la vie musicale genevoise.
 
