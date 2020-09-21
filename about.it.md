@@ -1,19 +1,23 @@
 # Progetto _onstage_
-_onstage_ è un progetto di valorizzazione documentaria che nasce dalle varie attività proposte dall'HEMU-CL per la celebrazione del suo 150° anniversario. Nel 2015, il Conservatorio di Ginevra e l'Haute Ecole de Musique de Genève hanno aderito al progetto integrando i loro programmi di concerti. Nel 2016 è stata aggiunta alla banca dati la collezione dell'Associazione Freunde alter Musik Basel.
+_onstage_ è un progetto di valorizzazione documentaria che nasce dalle varie attività proposte dall'HEMU-CL per la celebrazione del suo 150° anniversario. Nel 2015, il Conservatorio di Ginevra e l'Haute Ecole de Musique de Genève hanno aderito al progetto integrando i loro programmi di concerti. Nel 2016 è stata aggiunta alla banca dati la collezione dell'Associazione Freunde alter Musik Basel. Infine, nel 2020, ha seguito la collezione de La Musicale, Bibliothèque de Genève.
 
 ## Responsabili del progetto
 ### Responsabile della collezione del Conservatorio e della Haute Ecole de Musique de Lausanne
 
-* Biblioteca HEMU-CL - bibliotheque@hemu-cl.ch
+* Biblioteca HEMU-CL – bibliotheque@hemu-cl.ch
 * Violeta Struijk Van Bergen (collaboratrice scientifica)
 
 ### Responsabile della collezione del Conservatorio di Ginevra e dell'Alta Scuola di Musica di Ginevra
 
-* Biblioteca del Conservatoire de Musique - biblio@cmg.ch
+* Biblioteca del Conservatoire de Musique – biblio@cmg.ch
 
 ### Responsabile della collezione Freunde alter Musik Basel
 
-* Archivio dell'Associazione Freunde alter Musik Basel - info@famb.ch
+* Archivio dell'Associazione Freunde alter Musik Basel – info@famb.ch
+
+### Responsabile della collezione La Musicale, Bibliothèque de Genève
+
+* La Musicale, Bibliothèque de Genève – bmus@ville-ge.ch
 
 ### IT & digitalizzazione
 
@@ -40,7 +44,7 @@ Tutti i programmi sono stati indicizzati a mano. Il formato di indicizzazione so
 #### Estratto dal contenuto di un indice in TEI
 
 ## OCR
-Per offrire agli utenti una ricerca a testo completo, a tutti i programmi è stato applicato un software di riconoscimento dei caratteri (OCR). Il software utilizzato è ABBYY FineReader 11 Pro (www.abbyy.com). Non vengono eseguiti controlli o correzioni manuali e la ricerca del testo completo viene eseguita su una versione grezza del risultato dell'OCR.
+Per offrire agli utenti una ricerca a testo completo, a tutti i programmi è stato applicato un software di riconoscimento dei caratteri (OCR). I software utilizzati sono ABBYY FineReader 11 Pro (www.abbyy.com) e Tesseract (https://tesseract-ocr.github.io). Non vengono eseguiti controlli o correzioni manuali e la ricerca del testo completo viene eseguita su una versione grezza del risultato dell'OCR.
 
 ## Interfaccia
 La ricerca per indice viene effettuata direttamente sui file TEI (XML) utilizzando le query XPath (via PHP). Le immagini scansionate dai programmi vengono visualizzate utilizzando il display diva.js appositamente progettato per le immagini ad alta risoluzione (ddmal.music.mcgill.ca/diva/). Permette una consultazione fluida di più pagine, qualunque sia il livello di zoom scelto. Le immagini del programma possono essere scaricate anche in formato PDF.
