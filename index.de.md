@@ -25,6 +25,12 @@ _onstage_ ist eine Datenbank, die die Programme der öffentlichen musikalischen 
 * mehr als 2'400 Komponisten und Interpreten
 * ca. 3'000 digitalisierte Seiten
 
+### Sammlung Genf – La Musicale
+
+* eine Auswahl von etwa 2'300 Dokumenten (von 20'000)
+* von 1861 bis 1945
+* Genfer Säle, hauptsächlich : Victoria Hall, Kathedrale Saint-Pierre, Konservatorium Genf, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
+
 <!-- Old Onstage logos-->
 <div>
 	<table border="0" cellspacing="10px" style="margin: 0 auto;text-align:center">
