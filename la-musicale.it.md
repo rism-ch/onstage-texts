@@ -9,21 +9,3 @@ I programmi de La Musicale _onstage_ provengono da varie fonti, principalmente d
 I programmi più antichi provengono anche dalla collezione della biblioteca del Grand Théâtre de Genève, depositata a La Musicale nel 1973, dopo l&#39;incendio del teatro nel 1951. Nella collezione sono presenti programmi di concerti e spettacoli tenuti in questa sala, ma non sono elencati in _onstage_. Questi documenti possono essere consultati direttamente in biblioteca. In _onstage_ compaiono invece programmi di concerti dati in altre sale e raccolti dal teatro, come quelli dell&#39;Orchestre de la Ville de Genève (l&#39;orchestra del teatro).
 
 Va inoltre notato che la collezione de La Musicale è complementare a quella della biblioteca del Conservatorio di Ginevra e talvolta ridondante.
-
-I programmi de La Musicale in _onstage_:
-
-- una selezione di circa 2&#39;300 documenti (su 20&#39;000)
-
-- dal 1861 al 1945
-
-- Sale di Ginevra, principalmente: Victoria Hall, Cattedrale di Saint-Pierre, Conservatorio di Ginevra, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
-
-La Musicale : www.bge-geneve.ch/musicale
-
-Victoria Hall : https://www.ville-ge.ch/culture/victoria\_hall/histoire.html
-
-[http://d-lib.rism-ch.org/onstage/?id=about.html](http://d-lib.rism-ch.org/onstage/?id=about.html)
-
-Responsables collection La Musicale, Bibliothèque de Genève
-
-- La Musicale, Bibliothèque de Genève – [bmus@ville-ge.ch](mailto:bmus@ville-ge.ch)
