@@ -1,23 +1,27 @@
 # Project _onstage_
-_onstage_ is a document enhancement project that originates from the various activities proposed by the HEMU-CL for the celebration of its 150th anniversary. In 2015, the Geneva Conservatory and the Haute Ecole de Musique de Genève joined the project by integrating their concert programmes. In 2016, the collection of the Association Freunde alter Musik Basel was added to the database.
+_onstage_ is a document enhancement project that originates from the various activities proposed by the HEMU-CL for the celebration of its 150th anniversary. In 2015, the Geneva Conservatory and the Haute Ecole de Musique de Genève joined the project by integrating their concert programmes. In 2016, the collection of the Association Freunde alter Musik Basel was added to the database. In 2020 followed the collection of La Musicale, Bibliothèque de Genève.
 
 ## Project leaders
 ### Responsible for the collection of the Conservatoire and the Haute Ecole de Musique de Lausanne
 
-* HEMU-CL Library - bibliotheque@hemu-cl.ch
+* HEMU-CL Library – bibliotheque@hemu-cl.ch
 * Violeta Struijk Van Bergen (scientific collaborator)
 
 ### Responsible for the collection of the Geneva Conservatory and Haute Ecole de Musique de Genève
 
-* Library of the Conservatoire de Musique de Genève - biblio@cmg.ch
+* Library of the Conservatoire de Musique de Genève – biblio@cmg.ch
 
 ### Responsible for the collection Freunde alter Musik Basel
 
-* Archive of the Verein Freunde alter Musik Basel - info@famb.ch
+* Archive of the Verein Freunde alter Musik Basel – info@famb.ch
+
+### Responsible for the collection La Musicale, Bibliothèque de Genève
+
+* La Musicale, Bibliothèque de Genève – bmus@ville-ge.ch
 
 ### IT & digitisation managers
 
-* Swiss RISM Office - info@rism-ch.org
+* Swiss RISM Office – info@rism-ch.org
 
 ## Contact
 For more information: onstage@rism-ch.org
@@ -40,7 +44,7 @@ All programs have been indexed by hand. The underlying indexing format is TEI (T
 #### Extract from the contents of an index in TEI
 
 ## OCR
-In order to offer users a full-text search, character recognition software (OCR) has been applied to all programmes. The software used is ABBYY FineReader 11 Pro (www.abbyy.com). No manual checks or corrections are performed, and the full-text search is performed on a raw version of the OCR result.
+In order to offer users a full-text search, character recognition software (OCR) has been applied to all programmes. The softwares used are ABBYY FineReader 11 Pro (www.abbyy.com) and Tesseract (https://tesseract-ocr.github.io). No manual checks or corrections are performed, and the full-text search is performed on a raw version of the OCR result.
 
 ## Interface
 The index search is done directly on the TEI (XML) files using XPath queries (via PHP). Scanned images from the programmes are displayed using the diva.js display specifically designed for high-resolution images (ddmal.music.mcgill.ca/diva/). It allows a fluid consultation of several pages, whatever the chosen zoom level. Programme images are also available for download in PDF format.
