@@ -14,7 +14,7 @@ _onstage_ is a database that lists and publishes the programmes of public musica
 * 405 concert series activities (« jeudis du conservatoire », « midi-concerts »…)
 * 1'650 pages digitalized
 
-### Genève
+### Genève – Conservatoire
 
 * 8'904 programmes
 * 6'954 composers and performers
