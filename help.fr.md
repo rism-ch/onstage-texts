@@ -14,3 +14,4 @@
 * « naviguer » : donne accès à des listes où sont classés les différents index de la base de données. Quatre indexes sont disponibles : compositeurs, interprètes, endroits, séries.
 
 Veuillez noter que certaines collections n'ont pas d'index des interprètes. Essayez aussi avec la recherche en texte intégral !
+L'index des interprètes, s'il est disponible, contient également les noms des directrices et des directeurs.
