@@ -14,3 +14,4 @@
 * "Browse" ermöglicht den Zugriff durch Blättern (Scrollen) in verschiedenen Registern.
 
 Bitte beachten Sie, dass einige Sammlungen keinen Interpreten-Index haben. Versuchen Sie es auch mit der Volltextsuche!
+Der Interpreten-Index, soweit vorhanden, beinhaltet auch die Namen der Dirigentinnen und Dirigenten.
