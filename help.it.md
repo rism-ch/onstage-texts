@@ -14,3 +14,4 @@
 * "consulta" : dà accesso alle liste in cui sono classificati i diversi indici del database. Sono disponibili quattro indici: compositori, interpreti, luoghi, serie.
 
 Si prega di notare che alcune collezioni non hanno un indice degli esecutori. Provate anche con la ricerca full text!
+L'indice degli esecutori, se disponibile, contiene anche i nomi delle direttrici e dei direttori.
