@@ -14,3 +14,4 @@
 * "browse": gives access to lists where the different indexes of the database are classified. Four indexes are available: composers, performers, places, series.
 
 Please note that some collections do not have a performer index. Try also with the full text search!
+The performers index, if available, also contains the names of the conductors.
