@@ -25,7 +25,7 @@ _onstage_ ist eine Datenbank, die die Programme der öffentlichen musikalischen 
 * mehr als 2'400 Komponisten und Interpreten
 * ca. 3'000 digitalisierte Seiten
 
-### Sammlung Genf – La Musicale
+### Sammlung Genf - La Musicale de la Bibliothèque de Genève
 
 * eine Auswahl von etwa 2'300 Dokumenten (von 20'000)
 * von 1861 bis 1945
@@ -54,6 +54,9 @@ _onstage_ ist eine Datenbank, die die Programme der öffentlichen musikalischen 
       			</td>
       			<td align="center" width="50%">
       				<a href="https://www.hesge.ch/hem" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hem-ge.png" width="75px" border="0"></a>
+      			</td>
+      			<td align="center" width="50%">
+      				<a href="https://www.bge-geneve.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-bge.png" width="120px" border="0"></a>
       			</td>
           </tr>
           <tr>
