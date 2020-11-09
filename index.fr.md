@@ -26,7 +26,7 @@ _onstage_ est une base de données qui recense et publie les programmes des acti
 * plus de 2'400 compositeurs et interprètes
 * ca. 3'000 pages numérisées
 
-### Fonds Genève – La Musicale
+### Fonds Genève - La Musicale de la Bibliothèque de Genève
 
 * une sélection d'environ 2'300 documents (sur 20'000)
 * de 1861 à 1945
@@ -55,6 +55,9 @@ _onstage_ est une base de données qui recense et publie les programmes des acti
       			</td>
       			<td align="center" width="50%">
       				<a href="https://www.hesge.ch/hem" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hem-ge.png" width="75px" border="0"></a>
+      			</td>
+      			<td align="center" width="50%">
+      				<a href="https://www.bge-geneve.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-bge.png" width="120px" border="0"></a>
       			</td>
           </tr>
           <tr>
