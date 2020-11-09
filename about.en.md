@@ -1,5 +1,5 @@
 # Project _onstage_
-_onstage_ is a document enhancement project that originates from the various activities proposed by the HEMU-CL for the celebration of its 150th anniversary. In 2015, the Geneva Conservatory and the Haute Ecole de Musique de Genève joined the project by integrating their concert programmes. In 2016, the collection of the Association Freunde alter Musik Basel was added to the database. In 2020 followed the collection of La Musicale, Bibliothèque de Genève.
+_onstage_ is a document enhancement project that originates from the various activities proposed by the HEMU-CL for the celebration of its 150th anniversary. In 2015, the Geneva Conservatory and the Haute Ecole de Musique de Genève joined the project by integrating their concert programmes. In 2016, the collection of the Association Freunde alter Musik Basel was added to the database. In 2020 followed the collection of La Musicale de la Bibliothèque de Genève.
 
 ## Project leaders
 ### Responsible for the collection of the Conservatoire and the Haute Ecole de Musique de Lausanne
@@ -15,9 +15,9 @@ _onstage_ is a document enhancement project that originates from the various act
 
 * Archive of the Verein Freunde alter Musik Basel – info@famb.ch
 
-### Responsible for the collection La Musicale, Bibliothèque de Genève
+### Responsible for the collection La Musicale de la Bibliothèque de Genève
 
-* La Musicale, Bibliothèque de Genève – bmus@ville-ge.ch
+* La Musicale de la Bibliothèque de Genève – bmus@ville-ge.ch
 
 ### IT & digitisation managers
 
