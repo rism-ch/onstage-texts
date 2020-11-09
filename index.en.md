@@ -26,7 +26,7 @@ _onstage_ is a database that lists and publishes the programmes of public musica
 * more than 2'400 composers and performers
 * ca. 3'000 pages digitalized
 
-### Genève – La Musicale
+### Genève - La Musicale de la Bibliothèque de Genève
 
 * a selection of about 2'300 documents (out of 20'000)
 * from 1861 to 1945
@@ -55,6 +55,9 @@ _onstage_ is a database that lists and publishes the programmes of public musica
       			</td>
       			<td align="center" width="50%">
       				<a href="https://www.hesge.ch/hem" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hem-ge.png" width="75px" border="0"></a>
+      			</td>
+      			<td align="center" width="50%">
+      				<a href="https://www.bge-geneve.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-bge.png" width="120px" border="0"></a>
       			</td>
           </tr>
           <tr>
