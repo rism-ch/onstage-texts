@@ -1,5 +1,5 @@
 # Projet _onstage_
-onstage est un projet de valorisation documentaire qui découle des différentes activités proposée par l’HEMU-CL pour la célébration de son 150ème anniversaire. En 2015, le Conservatoire et la Haute Ecole de Musique de Genève ont rejoint le projet en intégrant leurs programmes de concerts. En 2016, la collection de l’Association Freunde alter Musik Basel s’est ajoutée à la base-données. Enfin, en 2020, a suivi la collection de La Musicale, Bibliothèque de Genève.
+onstage est un projet de valorisation documentaire qui découle des différentes activités proposée par l’HEMU-CL pour la célébration de son 150ème anniversaire. En 2015, le Conservatoire et la Haute Ecole de Musique de Genève ont rejoint le projet en intégrant leurs programmes de concerts. En 2016, la collection de l’Association Freunde alter Musik Basel s’est ajoutée à la base-données. Enfin, en 2020, a suivi la collection de La Musicale de la Bibliothèque de Genève.
 
 ## Responsables du projet
 ### Responsables collection Conservatoire et Haute Ecole de Musique de Lausanne
@@ -15,9 +15,9 @@ onstage est un projet de valorisation documentaire qui découle des différentes
 
 * Archiv des Vereins Freunde alter Musik Basel – info@famb.ch
 
-### Responsables collection La Musicale, Bibliothèque de Genève
+### Responsables collection La Musicale de la Bibliothèque de Genève
 
-* La Musicale, Bibliothèque de Genève – bmus@ville-ge.ch
+* La Musicale de la Bibliothèque de Genève – bmus@ville-ge.ch
 
 ### Responsables informatique & numérisation
 
