@@ -26,7 +26,7 @@ _onstage_ è una banca dati che elenca e pubblica i programmi delle attività mu
 * oltre 2'400 compositori e interpreti
 * circa 3'000 pagine scansionate
 
-### Collezione di Ginevra – La Musicale
+### Collezione di Ginevra – La Musicale de la Bibliothèque de Genève
 
 * una selezione di circa 2'300 documenti (su 20'000)
 * dal 1861 al 1945
@@ -55,6 +55,9 @@ _onstage_ è una banca dati che elenca e pubblica i programmi delle attività mu
       			</td>
       			<td align="center" width="50%">
       				<a href="https://www.hesge.ch/hem" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hem-ge.png" width="75px" border="0"></a>
+      			</td>
+      			<td align="center" width="50%">
+      				<a href="https://www.bge-geneve.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-bge.png" width="120px" border="0"></a>
       			</td>
           </tr>
           <tr>
