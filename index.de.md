@@ -1,5 +1,5 @@
 # Einleitung
-_onstage_ ist eine Datenbank, die die Programme der öffentlichen musikalischen Aktivitäten von verschiedenen Institutionen aus der Schweiz verzeichnet und veröffentlicht. _onstage_ beinhaltet Konzertprogramme, Konferenzen, Kurse, Prüfungen und deren Ergebnisse; diese Dokumente - die den Zeitraum 1826 bis heute abdecken - wurden katalogisiert, indexiert und digitalisiert. _onstage_ verfolgt das musikalische Repertoire, das im Laufe der Jahre gespielt wurde, rekonstruiert den Geschmack eines bestimmten Zeitraums sowie ihre Ästhetik und und erlaubt die Interpreten wieder zu entdecken, die zwei Jahrhunderte Musikleben in der Schweiz begleitet haben.
+_onstage_ ist eine Datenbank, die die Programme der öffentlichen musikalischen Aktivitäten von verschiedenen Institutionen aus der Schweiz verzeichnet und veröffentlicht. _onstage_ beinhaltet Konzertprogramme, Konferenzen, Kurse, Prüfungen und deren Ergebnisse; diese Dokumente - die den Zeitraum 1826 bis heute abdecken - wurden katalogisiert, indexiert und digitalisiert. _onstage_ verfolgt das musikalische Repertoire, das im Laufe der Jahre gespielt wurde, rekonstruiert den Geschmack eines bestimmten Zeitraums sowie ihre Ästhetik und erlaubt die Interpreten wieder zu entdecken, die zwei Jahrhunderte Musikleben in der Schweiz begleitet haben.
 
 ## _onstage_ in Zahlen
 
