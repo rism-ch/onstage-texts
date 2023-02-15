@@ -1,36 +1,13 @@
 # Introduction
 
-_onstage_ est une base de données qui recense et publie les programmes des activités musicales publiques organisées par de différentes institutions suisses. _onstage_ est constituée de programmes de concerts, conférences, cours, examens et palmarès ; ces documents - qui couvrent actuellement la période de 1826 à nos jours - ont été catalogués, indexés et numérisés. _onstage_ permet de retracer le répertoire musical joué au fil des années, de reconstituer les goûts d'une période donnée ainsi que son esthétique et de retrouver les interprètes qui ont bâti deux siècles de musique en Suisse.
+_Onstage_ est une base de données qui recense et publie les programmes des activités musicales publiques organisées par de différentes institutions suisses. _onstage_ est constituée de programmes de concerts, conférences, cours, examens et palmarès ; ces documents - qui couvrent actuellement la période de 1826 à nos jours - ont été catalogués, indexés et numérisés. _onstage_ permet de retracer le répertoire musical joué au fil des années, de reconstituer les goûts d'une période donnée ainsi que son esthétique et de retrouver les interprètes qui ont bâti deux siècles de musique en Suisse.
 
-## _onstage_ en chiffres
+Les programmes des collections suivantes ont été saisis dans la base de données _Onstage_ (dans l'ordre de leur publication) :
+- Bibliothèque de la Haute Ecole de Musique - Conservatoire de Lausanne, DOI: https://doi.org/10.5448/rism-d-lib-002
+- Bibliothèque du Conservatoire de Musique de Genève, DOI: https://doi.org/10.5448/rism-d-lib-003
+- Bibliothèque de Genève – La Musicale, DOI: https://doi.org/10.5448/rism-d-lib-020
+- Freunde Alter Musik Basel, DOI: https://doi.org/10.5448/rism-d-lib-004
 
-### Fonds Lausanne
-
-* 865 activités
-* 1'069 compositeurs et interprètes
-* 243 auditions
-* 298 concerts
-* 117 conférences
-* 405 activités liées à des cycles de concerts (« jeudis du conservatoire », « midi-concerts »…)
-*1'650 pages numérisées
-
-### Fonds Genève – Conservatoire
-
-* 8'904 programmes
-* 6'954 compositeurs et interprètes
-* 19'499 pages numérisées
-
-### Fonds Bâle
-
-* plus de 400 programmes
-* plus de 2'400 compositeurs et interprètes
-* ca. 3'000 pages numérisées
-
-### Fonds Genève - La Musicale de la Bibliothèque de Genève
-
-* une sélection d'environ 2'300 documents (sur 20'000)
-* de 1861 à 1945
-* salles genevoises, principalement : Victoria Hall, Cathédrale de Saint-Pierre, Conservatoire de Genève, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
 
 <!-- Old Onstage logos-->
 <div>

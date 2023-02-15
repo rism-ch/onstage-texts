@@ -1,36 +1,13 @@
 # Introduction
 
-_onstage_ is a database that lists and publishes the programmes of public musical activities organized by various Swiss institutions. _onstage_ consists of concert programmes, lectures, courses, examinations and prize concerts; these documents - currently covering the period from 1826 to the present day - have been catalogued, indexed and digitized. _onstage_ makes it possible to retrace the musical repertoire played over the years, to reconstruct the tastes of a given period as well as its aesthetics, and to find the performers who contributed to two centuries of music in Switzerland.
+_Onstage_ is a database that lists and publishes the programmes of public musical activities organized by various Swiss institutions. _onstage_ consists of concert programmes, lectures, courses, examinations and prize concerts; these documents - currently covering the period from 1826 to the present day - have been catalogued, indexed and digitized. _onstage_ makes it possible to retrace the musical repertoire played over the years, to reconstruct the tastes of a given period as well as its aesthetics, and to find the performers who contributed to two centuries of music in Switzerland.
 
-## _onstage_ in Figures
+Programme notes from the following collections were included in the _Onstage_ database (in order of publication):
+- Bibliothèque de la Haute Ecole de Musique - Conservatoire de Lausanne, DOI: https://doi.org/10.5448/rism-d-lib-002
+- Bibliothèque du Conservatoire de Musique de Genève, DOI: https://doi.org/10.5448/rism-d-lib-003
+- Bibliothèque de Genève – La Musicale, DOI: https://doi.org/10.5448/rism-d-lib-020
+- Freunde Alter Musik Basel, DOI: https://doi.org/10.5448/rism-d-lib-004
 
-### Lausanne
-
-* 865 activities
-* 1'069 composers and performers
-* 243 auditions
-* 298 concerts
-* 117 conferences
-* 405 concert series activities (« jeudis du conservatoire », « midi-concerts »…)
-* 1'650 pages digitalized
-
-### Genève – Conservatoire
-
-* 8'904 programmes
-* 6'954 composers and performers
-* 19'499 pages digitalized
-
-### Basel
-
-* more than 400 programmes
-* more than 2'400 composers and performers
-* ca. 3'000 pages digitalized
-
-### Genève - La Musicale de la Bibliothèque de Genève
-
-* a selection of about 2'300 documents (out of 20'000)
-* from 1861 to 1945
-* Geneva halls, mainly: Victoria Hall, Saint-Pierre Cathedral, Geneva Conservatory, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
 
 <!-- Old Onstage logos-->
 <div>

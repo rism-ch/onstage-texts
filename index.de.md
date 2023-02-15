@@ -1,35 +1,12 @@
 # Einleitung
-_onstage_ ist eine Datenbank, die die Programme der öffentlichen musikalischen Aktivitäten von verschiedenen Institutionen aus der Schweiz verzeichnet und veröffentlicht. _onstage_ beinhaltet Konzertprogramme, Konferenzen, Kurse, Prüfungen und deren Ergebnisse; diese Dokumente - die den Zeitraum 1826 bis heute abdecken - wurden katalogisiert, indexiert und digitalisiert. _onstage_ verfolgt das musikalische Repertoire, das im Laufe der Jahre gespielt wurde, rekonstruiert den Geschmack eines bestimmten Zeitraums sowie ihre Ästhetik und erlaubt die Interpreten wieder zu entdecken, die zwei Jahrhunderte Musikleben in der Schweiz begleitet haben.
+_Onstage_ ist eine Datenbank, die die Programme der öffentlichen musikalischen Aktivitäten von verschiedenen Institutionen aus der Schweiz verzeichnet und veröffentlicht. _onstage_ beinhaltet Konzertprogramme, Konferenzen, Kurse, Prüfungen und deren Ergebnisse; diese Dokumente - die den Zeitraum 1826 bis heute abdecken - wurden katalogisiert, indexiert und digitalisiert. _onstage_ verfolgt das musikalische Repertoire, das im Laufe der Jahre gespielt wurde, rekonstruiert den Geschmack eines bestimmten Zeitraums sowie ihre Ästhetik und erlaubt die Interpreten wieder zu entdecken, die zwei Jahrhunderte Musikleben in der Schweiz begleitet haben.
 
-## _onstage_ in Zahlen
+In der Datenbank _Onstage_ wurden Programmhefte aus den folgenden Sammlungen erfasst (in der Reihenfolge ihrer Publikation):
+- Bibliothèque de la Haute Ecole de Musique - Conservatoire de Lausanne, DOI: https://doi.org/10.5448/rism-d-lib-002
+- Bibliothèque du Conservatoire de Musique de Genève, DOI: https://doi.org/10.5448/rism-d-lib-003
+- Bibliothèque de Genève – La Musicale, DOI: https://doi.org/10.5448/rism-d-lib-020
+- Freunde Alter Musik Basel, DOI: https://doi.org/10.5448/rism-d-lib-004
 
-### Sammlung Lausanne
-
-* 865 Aktivitäten
-* 1'069 Komponisten und Interpreten
-* 243 Auditionen
-* 298 Konzerte
-* 117 Vorträge
-* 405 Aktivitäten in Verbindung mit Konzertzyklen (“jeudis du conservatoire”, “midi-concerts”…)
-* 1'650 digitalisierte Seiten
-
-### Sammlung Genf – Conservatoire
-
-* 8'904 Programme
-* 6'954 Komponisten und Interpreten
-* 19'499 digitalisierte Seiten
-
-### Sammlung Basel
-
-* mehr als 400 Programme
-* mehr als 2'400 Komponisten und Interpreten
-* ca. 3'000 digitalisierte Seiten
-
-### Sammlung Genf - La Musicale de la Bibliothèque de Genève
-
-* eine Auswahl von etwa 2'300 Dokumenten (von 20'000)
-* von 1861 bis 1945
-* Genfer Säle, hauptsächlich : Victoria Hall, Kathedrale Saint-Pierre, Konservatorium Genf, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
 
 <!-- Old Onstage logos-->
 <div>

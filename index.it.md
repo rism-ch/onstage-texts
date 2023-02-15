@@ -1,36 +1,14 @@
 # Introduzione
 
-_onstage_ è una banca dati che elenca e pubblica i programmi delle attività musicali pubbliche organizzate da diverse istituzioni svizzere. _onstage_ è costituito da programmi di concerti, conferenze, corsi, esami e premiazioni; questi documenti - che coprono attualmente il periodo dal 1826 ad oggi - sono stati catalogati, indicizzati e digitalizzati. _onstage_ permette di rintracciare il repertorio musicale eseguito nel corso degli anni, di ricostruire i gusti di un determinato periodo e la sua estetica, e di individuare gli interpreti che hanno costruito due secoli di musica in Svizzera.
+_Onstage_ è una banca dati che elenca e pubblica i programmi delle attività musicali pubbliche organizzate da diverse istituzioni svizzere. _onstage_ è costituito da programmi di concerti, conferenze, corsi, esami e premiazioni; questi documenti - che coprono attualmente il periodo dal 1826 ad oggi - sono stati catalogati, indicizzati e digitalizzati. _onstage_ permette di rintracciare il repertorio musicale eseguito nel corso degli anni, di ricostruire i gusti di un determinato periodo e la sua estetica, e di individuare gli interpreti che hanno costruito due secoli di musica in Svizzera.
 
-## _onstage_ in numeri
+I programmi di sala delle seguenti collezioni sono stati inseriti nel database _Onstage_ (in ordine di pubblicazione):
 
-### Collezione di Losanna
+- Bibliothèque de la Haute Ecole de Musique - Conservatoire de Lausanne, DOI: https://doi.org/10.5448/rism-d-lib-002
+- Bibliothèque du Conservatoire de Musique de Genève, DOI: https://doi.org/10.5448/rism-d-lib-003
+- Bibliothèque de Genève – La Musicale, DOI: https://doi.org/10.5448/rism-d-lib-020
+- Freunde Alter Musik Basel, DOI: https://doi.org/10.5448/rism-d-lib-004
 
-* 865 attività
-* 1'069 compositori e interpreti
-* 243 audizioni
-* 298 concerti
-* 117 conferenze
-* 405 attività legate ai cicli di concerti ("giovedì al conservatorio", "pranzo-concerto" ...)
-* 1'650 pagine scansionate
-
-### Collezione di Ginevra – Conservatoire
-
-* 8'904 programmi
-* 6'954 compositori e interpreti
-* 19'499 pagine scansionate
-
-### Collezione di Basilea
-
-* oltre 400 programmi
-* oltre 2'400 compositori e interpreti
-* circa 3'000 pagine scansionate
-
-### Collezione di Ginevra – La Musicale de la Bibliothèque de Genève
-
-* una selezione di circa 2'300 documenti (su 20'000)
-* dal 1861 al 1945
-* Sale di Ginevra, principalmente: Victoria Hall, Cattedrale di Saint-Pierre, Conservatorio di Ginevra, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
 
 <!-- Old Onstage logos-->
 <div>

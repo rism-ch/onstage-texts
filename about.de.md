@@ -1,5 +1,35 @@
 # Projekt _onstage_
-_onstage_ ist ein Projekt zur Valorisierung von Dokumenten, welches aus den verschiedenen Aktivitäten der HEMU-CL für die Feier des 150-jährigen Bestehen entstanden ist. Im Jahr 2015 ist das Conservatoire et Haute Ecole de Musique in Genf dem Projekt beigetreten und hat ihre Konzertprogramme integriert. Im Jahr 2016 wurde die Sammlung des Vereins Freunde alter Musik Basel der Datenbank hinzugefügt. 2020 folge die Sammlung La Musicale de la Bibliothèque de Genève.
+_onstage_ ist ein Projekt zur Valorisierung von Dokumenten, welches aus den verschiedenen Aktivitäten der HEMU-CL für die Feier des 150-jährigen Bestehen entstanden ist. Im Jahr 2015 ist das Conservatoire et Haute Ecole de Musique in Genf dem Projekt beigetreten und hat ihre Konzertprogramme integriert. Im Jahr 2016 wurde die Sammlung des Vereins Freunde alter Musik Basel der Datenbank hinzugefügt. 2020 folgte die Sammlung La Musicale de la Bibliothèque de Genève.
+
+## _Onstage_ in Zahlen
+
+### Sammlung Lausanne
+
+* 865 Aktivitäten
+* 1'069 Komponisten und Interpreten
+* 243 Auditionen
+* 298 Konzerte
+* 117 Vorträge
+* 405 Aktivitäten in Verbindung mit Konzertzyklen (“jeudis du conservatoire”, “midi-concerts”…)
+* 1'650 digitalisierte Seiten
+
+### Sammlung Genf – Conservatoire
+
+* 8'904 Programme
+* 6'954 Komponisten und Interpreten
+* 19'499 digitalisierte Seiten
+
+### Sammlung Basel
+
+* mehr als 400 Programme
+* mehr als 2'400 Komponisten und Interpreten
+* ca. 3'000 digitalisierte Seiten
+
+### Sammlung Genf - La Musicale de la Bibliothèque de Genève
+
+* eine Auswahl von etwa 2'300 Dokumenten (von 20'000)
+* von 1861 bis 1945
+* Genfer Säle, hauptsächlich : Victoria Hall, Kathedrale Saint-Pierre, Konservatorium Genf, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
 
 ## Projektverantwortliche
 ### Verantwortlich für die Sammlung Conservatoire et Haute Ecole de Musique de Lausanne
@@ -47,4 +77,4 @@ Alle Programme wurden manuell indexiert. Das zugrunde liegende Index-Format ist 
 Um den Nutzern eine Volltextsuche zu erlauben, wurde eine Software zur automatischen Zeichenerkennung (OCR) auf alle Programme angewendet. Die verwendeten Software sind ABBYY Finereader 11 Pro (www.abbyy.com) und Tesseract (https://tesseract-ocr.github.io). Es wurde keine Überprüfung oder Korrektur manuell durchgeführt, und die Volltextsuche greift auf eine nicht weiter verarbeitete Version des OCR-Ergebnisses zu.
 
 ## Schnittstelle
-Die Recherche in den Indizes geschieht direkt in den TEI-Dateien (XML), mittels XPath-Abfragen (via PHP). Die gescannten Bilder der Programme werden durch diva.js angezeigt, ein speziell für hochauflösende Bilder entwickelter Anzeigetool (ddmal.music.mcgill.ca/diva). Dies ermöglicht eine reibungslose Betrachtung von mehreren Seiten, unabhängig von der ausgewählten Zoomstufe. Die Bilder der Programme stehen zum Download im PDF-Format zur Verfügung.
+Die Recherche in den Indizes geschieht direkt in den TEI-Dateien (XML), mittels XPath-Abfragen (via PHP). Die gescannten Bilder der Programme werden durch diva.js angezeigt, ein speziell für hochauflösende Bilder entwickelter Anzeigetool (https://diva.simssa.ca/). Dies ermöglicht eine reibungslose Betrachtung von mehreren Seiten, unabhängig von der ausgewählten Zoomstufe. Die Bilder der Programme stehen zum Download im PDF-Format zur Verfügung.
