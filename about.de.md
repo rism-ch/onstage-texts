@@ -3,7 +3,7 @@ _onstage_ ist ein Projekt zur Valorisierung von Dokumenten, welches aus den vers
 
 ## _Onstage_ in Zahlen
 
-### Sammlung Lausanne
+### Sammlung Haute Ecole de Musique - Conservatoire de Lausanne
 
 * 865 Aktivitäten
 * 1'069 Komponisten und Interpreten
@@ -13,19 +13,19 @@ _onstage_ ist ein Projekt zur Valorisierung von Dokumenten, welches aus den vers
 * 405 Aktivitäten in Verbindung mit Konzertzyklen (“jeudis du conservatoire”, “midi-concerts”…)
 * 1'650 digitalisierte Seiten
 
-### Sammlung Genf – Conservatoire
+### Sammlung Conservatoire de Musique de Genève
 
 * 8'904 Programme
 * 6'954 Komponisten und Interpreten
 * 19'499 digitalisierte Seiten
 
-### Sammlung Basel
+### Sammlung Freunde Alter Musik Basel
 
 * mehr als 400 Programme
 * mehr als 2'400 Komponisten und Interpreten
 * ca. 3'000 digitalisierte Seiten
 
-### Sammlung Genf - La Musicale de la Bibliothèque de Genève
+### Sammlung La Musicale de la Bibliothèque de Genève
 
 * eine Auswahl von etwa 2'300 Dokumenten (von 20'000)
 * von 1861 bis 1945

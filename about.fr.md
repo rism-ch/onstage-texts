@@ -3,7 +3,7 @@ onstage est un projet de valorisation documentaire qui découle des différentes
 
 ## _Onstage_ en chiffres
 
-### Fonds Lausanne
+### Fonds Haute Ecole de Musique - Conservatoire de Lausanne
 
 * 865 activités
 * 1'069 compositeurs et interprètes
@@ -13,23 +13,24 @@ onstage est un projet de valorisation documentaire qui découle des différentes
 * 405 activités liées à des cycles de concerts (« jeudis du conservatoire », « midi-concerts »…)
 *1'650 pages numérisées
 
-### Fonds Genève – Conservatoire
+### Fonds Conservatoire de Musique de Genève
 
 * 8'904 programmes
 * 6'954 compositeurs et interprètes
 * 19'499 pages numérisées
 
-### Fonds Bâle
+### Fonds Freunde Alter Musik Basel
 
 * plus de 400 programmes
 * plus de 2'400 compositeurs et interprètes
 * ca. 3'000 pages numérisées
 
-### Fonds Genève - La Musicale de la Bibliothèque de Genève
+### Fonds La Musicale de la Bibliothèque de Genève
 
 * une sélection d'environ 2'300 documents (sur 20'000)
 * de 1861 à 1945
 * salles genevoises, principalement : Victoria Hall, Cathédrale de Saint-Pierre, Conservatoire de Genève, Salle de la Réformation, Théâtre Pitoëff (Salle communale de Plainpalais)
+
 ## Responsables du projet
 ### Responsables collection Conservatoire et Haute Ecole de Musique de Lausanne
 

@@ -3,7 +3,7 @@ _onstage_ is a document enhancement project that originates from the various act
 
 ## _Onstage_ in Figures
 
-### Lausanne
+### Haute Ecole de Musique - Conservatoire de Lausanne
 
 * 865 activities
 * 1'069 composers and performers
@@ -13,19 +13,19 @@ _onstage_ is a document enhancement project that originates from the various act
 * 405 concert series activities (« jeudis du conservatoire », « midi-concerts »…)
 * 1'650 pages digitalized
 
-### Genève – Conservatoire
+### Conservatoire de Musique de Genève
 
 * 8'904 programmes
 * 6'954 composers and performers
 * 19'499 pages digitalized
 
-### Basel
+### Freunde Alter Musik Basel
 
 * more than 400 programmes
 * more than 2'400 composers and performers
 * ca. 3'000 pages digitalized
 
-### Genève - La Musicale de la Bibliothèque de Genève
+### La Musicale de la Bibliothèque de Genève
 
 * a selection of about 2'300 documents (out of 20'000)
 * from 1861 to 1945

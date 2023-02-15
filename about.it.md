@@ -3,7 +3,7 @@ _onstage_ è un progetto di valorizzazione documentaria che nasce dalle varie at
 
 ## _Onstage_ in numeri
 
-### Collezione di Losanna
+### Collezione Haute Ecole de Musique - Conservatoire de Lausanne
 
 * 865 attività
 * 1'069 compositori e interpreti
@@ -13,19 +13,19 @@ _onstage_ è un progetto di valorizzazione documentaria che nasce dalle varie at
 * 405 attività legate ai cicli di concerti ("giovedì al conservatorio", "pranzo-concerto" ...)
 * 1'650 pagine scansionate
 
-### Collezione di Ginevra – Conservatoire
+### Collezione Conservatoire de Musique de Genève
 
 * 8'904 programmi
 * 6'954 compositori e interpreti
 * 19'499 pagine scansionate
 
-### Collezione di Basilea
+### Collezione Freunde Alter Musik Basel
 
 * oltre 400 programmi
 * oltre 2'400 compositori e interpreti
 * circa 3'000 pagine scansionate
 
-### Collezione di Ginevra – La Musicale de la Bibliothèque de Genève
+### Collezione La Musicale de la Bibliothèque de Genève
 
 * una selezione di circa 2'300 documenti (su 20'000)
 * dal 1861 al 1945
