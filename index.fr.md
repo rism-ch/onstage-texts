@@ -3,10 +3,11 @@
 _Onstage_ est une base de données qui recense et publie les programmes des activités musicales publiques organisées par de différentes institutions suisses. _onstage_ est constituée de programmes de concerts, conférences, cours, examens et palmarès ; ces documents - qui couvrent actuellement la période de 1826 à nos jours - ont été catalogués, indexés et numérisés. _onstage_ permet de retracer le répertoire musical joué au fil des années, de reconstituer les goûts d'une période donnée ainsi que son esthétique et de retrouver les interprètes qui ont bâti deux siècles de musique en Suisse.
 
 Les programmes des collections suivantes ont été saisis dans la base de données _Onstage_ (dans l'ordre de leur publication) :
-- Bibliothèque de la Haute Ecole de Musique - Conservatoire de Lausanne, DOI: https://doi.org/10.5448/rism-d-lib-002
-- Bibliothèque du Conservatoire de Musique de Genève, DOI: https://doi.org/10.5448/rism-d-lib-003
-- Bibliothèque de Genève – La Musicale, DOI: https://doi.org/10.5448/rism-d-lib-020
-- Freunde Alter Musik Basel, DOI: https://doi.org/10.5448/rism-d-lib-004
+
+- [Bibliothèque de la Haute Ecole de Musique - Conservatoire de Lausanne](https://onstage.rism.digital/collection/CH-LAc), DOI: https://doi.org/10.5448/rism-d-lib-002
+- [Bibliothèque du Conservatoire de Musique de Genève](https://onstage.rism.digital/collection/CH-Gc), DOI: https://doi.org/10.5448/rism-d-lib-003
+- [Bibliothèque de Genève – La Musicale](https://onstage.rism.digital/collection/CH-Gmu), DOI: https://doi.org/10.5448/rism-d-lib-020
+- [Freunde Alter Musik Basel](https://onstage.rism.digital/collection/FAMB), DOI: https://doi.org/10.5448/rism-d-lib-004
 
 
 <!-- Old Onstage logos-->

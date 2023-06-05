@@ -4,10 +4,10 @@ _Onstage_ è una banca dati che elenca e pubblica i programmi delle attività mu
 
 I programmi di sala delle seguenti collezioni sono stati inseriti nel database _Onstage_ (in ordine di pubblicazione):
 
-- Bibliothèque de la Haute Ecole de Musique - Conservatoire de Lausanne, DOI: https://doi.org/10.5448/rism-d-lib-002
-- Bibliothèque du Conservatoire de Musique de Genève, DOI: https://doi.org/10.5448/rism-d-lib-003
-- Bibliothèque de Genève – La Musicale, DOI: https://doi.org/10.5448/rism-d-lib-020
-- Freunde Alter Musik Basel, DOI: https://doi.org/10.5448/rism-d-lib-004
+- [Bibliothèque de la Haute Ecole de Musique - Conservatoire de Lausanne](https://onstage.rism.digital/collection/CH-LAc), DOI: https://doi.org/10.5448/rism-d-lib-002
+- [Bibliothèque du Conservatoire de Musique de Genève](https://onstage.rism.digital/collection/CH-Gc), DOI: https://doi.org/10.5448/rism-d-lib-003
+- [Bibliothèque de Genève – La Musicale](https://onstage.rism.digital/collection/CH-Gmu), DOI: https://doi.org/10.5448/rism-d-lib-020
+- [Freunde Alter Musik Basel](https://onstage.rism.digital/collection/FAMB), DOI: https://doi.org/10.5448/rism-d-lib-004
 
 
 <!-- Old Onstage logos-->
