@@ -13,7 +13,7 @@
 * The displayed documents can be narrowed down using the date slider and/or by selecting a term from the various filters.
 * "Browse": gives access to lists where the different indexes of the database are displayed. 
 
-The results are displayed in descending chronological order.
+The results are displayed in chronological order.
 
 Please note that some collections do not have a performer index. Try also with the full text search!
 The performers index, if available, also contains the names of the conductors.
