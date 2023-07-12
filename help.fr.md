@@ -13,7 +13,7 @@
 * Les documents affichés peuvent être filtrés en utilisant le curseur de dates et/ou en sélectionnant un terme parmi les différents filtres ;
 * « Naviguer » : permet d'accéder à des listes où les différents index de la base de données sont affichés.
   
-Les résultats sont affichés dans l'ordre chronologique décroissant.
+Les résultats sont affichés dans l'ordre chronologique.
   
 Veuillez noter que certaines collections n'ont pas d'index des interprètes. Essayez aussi avec la recherche en texte intégral !
 L'index des interprètes, s'il est disponible, contient également les noms des directrices et des directeurs.
