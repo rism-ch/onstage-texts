@@ -13,7 +13,7 @@
 * I documenti visualizzati possono essere filtrati utilizzando il cursore delle date e/o selezionando un termine tra i vari filtri.
 * "Consulta": consente l'accesso agli elenchi dei termini che compongono i diversi indici del database.
 
-I risultati sono visualizzati in ordine cronologico decrescente.
+I risultati sono visualizzati in ordine cronologico.
 
 Si prega di notare che alcune collezioni non hanno un indice degli esecutori. Provate anche con la ricerca full text!
 L'indice degli esecutori, se disponibile, contiene anche i nomi delle direttrici e dei direttori.
