@@ -1,17 +1,19 @@
 # Help
-#### onstage allows:
+#### Onstage allows:
 
-* search documents in full text, by index, by period;
-* display the documents (with different types of display) and its metadata;
-* pin your documents;
-* export a permalink for each document.
+* to search documents in full text or brose by index;
+* to display the documents and metadata;
+* to pin your documents;
+* to export a permalink for each collection and for each document.
 
 #### Search modes:
 
-* "search": searches for one or more words in all listed data; search for a string using "". The search is not case sensitive;
-* "search" + "indexes": searches one or more words contained in a specific index ("people" or "places" or "series").
-* "search" + "date range": search for one or more words in all the listed data related to a specific period of time;
-* "browse": gives access to lists where the different indexes of the database are classified. Four indexes are available: composers, performers, places, series.
+* "Search": searches for one or more words in all listed data; search for a string using "". The search is not case sensitive;
+* A search can be restricted to words contained in a specific index ("composers", "performers" etc.).
+* The displayed documents can be narrowed down using the date slider and/or by selecting a term from the various filters.
+* "Browse": gives access to lists where the different indexes of the database are displayed. 
+
+The results are displayed in descending chronological order.
 
 Please note that some collections do not have a performer index. Try also with the full text search!
 The performers index, if available, also contains the names of the conductors.

@@ -1,17 +1,19 @@
 # Aiuto
-#### onstage permette :
+#### Onstage permette di:
 
-* cercare i documenti in testo integrale, per indice, per periodo;
-* visualizzare i documenti (con diversi tipi di visualizzazione) e i relativi metadati;
+* effettuare una ricerca libera con uno o più termini oppure consultare un indice;
+* visualizzare i documenti e i relativi metadati;
 * salvare documenti negli appunti;
-* esportare un permalink per ogni documento.
+* esportare un permalink per ogni documento e per ogni collezione.
 
-#### Modalità di ricerca :
+#### Modalità di ricerca:
 
-* "ricerca": ricerca di una o più parole in tutti i dati elencati; ricerca per stringa utilizzando "". La ricerca non è sensibile alle maiuscole e minuscole;
-* "ricerca" + "indici": ricerca una o più parole contenute in un indice specifico ("persone" o "luoghi" o "serie"); * "ricerca" + "indici": ricerca una o più parole contenute in un indice specifico ("persone" o "luoghi" o "serie")
-* "ricerca" + "periodo" : ricerca di una o più parole in tutti i dati elencati relativi ad un determinato periodo;
-* "consulta" : dà accesso alle liste in cui sono classificati i diversi indici del database. Sono disponibili quattro indici: compositori, interpreti, luoghi, serie.
+* "Cerca": ricerca di una o più parole in tutti i dati; ricerca per stringa utilizzando "". La ricerca non è sensibile alle maiuscole e minuscole;
+* Si può limitare la ricerca di una o più parole a quelle contenute in un indice specifico ("compositori", "esecutori", etc.); 
+* I documenti visualizzati possono essere filtrati utilizzando il cursore delle date e/o selezionando un termine tra i vari filtri.
+* "Consulta": consente l'accesso agli elenchi dei termini che compongono i diversi indici del database.
+
+I risultati sono visualizzati in ordine cronologico decrescente.
 
 Si prega di notare che alcune collezioni non hanno un indice degli esecutori. Provate anche con la ricerca full text!
 L'indice degli esecutori, se disponibile, contiene anche i nomi delle direttrici e dei direttori.
