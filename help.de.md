@@ -13,7 +13,7 @@
 * Die angezeigten Dokumente können am Datumschieber und/oder mittels eines Begriffs aus den verschiedenen Filtern eingeengt werden.
 * "Stöbern" ermöglicht den Zugriff durch Blättern in verschiedenen Registern.
 
-Die Resultate werden in abnehmender chronologischer Reihenfolge angezeigt. 
+Die Resultate werden in chronologischer Reihenfolge angezeigt. 
 
 Bitte beachten Sie, dass einige Sammlungen keinen Interpreten-Index haben. Versuchen Sie es auch mit der Volltextsuche!
 Der Interpreten-Index, soweit vorhanden, beinhaltet auch die Namen der Dirigentinnen und Dirigenten.
