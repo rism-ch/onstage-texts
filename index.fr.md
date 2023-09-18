@@ -8,6 +8,7 @@ Les programmes des collections suivantes ont été saisis dans la base de donné
 - [Bibliothèque du Conservatoire de Musique de Genève](https://onstage.rism.digital/collection/CH-Gc), DOI: https://doi.org/10.5448/rism-d-lib-003
 - [Bibliothèque de Genève – La Musicale](https://onstage.rism.digital/collection/CH-Gmu), DOI: https://doi.org/10.5448/rism-d-lib-020
 - [Freunde Alter Musik Basel](https://onstage.rism.digital/collection/FAMB), DOI: https://doi.org/10.5448/rism-d-lib-004
+- [Zentral- und Hochschulbibliothek Luzern](https://onstage.rism.digital/collection/CH-Lz), DOI: https://doi.org/10.5448/rism-d-lib-024
 
 
 <!-- Old Onstage logos-->
