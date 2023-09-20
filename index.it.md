@@ -1,6 +1,6 @@
 # Introduzione
 
-_Onstage_ è una banca dati che elenca e pubblica i programmi delle attività musicali pubbliche organizzate da diverse istituzioni svizzere. _onstage_ è costituito da programmi di concerti, conferenze, corsi, esami e premiazioni; questi documenti - che coprono attualmente il periodo dal 1826 ad oggi - sono stati catalogati, indicizzati e digitalizzati. _onstage_ permette di rintracciare il repertorio musicale eseguito nel corso degli anni, di ricostruire i gusti di un determinato periodo e la sua estetica, e di individuare gli interpreti che hanno costruito due secoli di musica in Svizzera.
+_Onstage_ è una banca dati che elenca e pubblica i programmi delle attività musicali pubbliche organizzate da diverse istituzioni svizzere. _Onstage_ è costituito da programmi di concerti, conferenze, corsi, esami e premiazioni; questi documenti - che coprono attualmente il periodo dall'inizio dell'Ottocento ad oggi - sono stati catalogati, indicizzati e digitalizzati. _Onstage_ permette di rintracciare il repertorio musicale eseguito nel corso degli anni, di ricostruire i gusti di un determinato periodo e la sua estetica, e di individuare gli interpreti che hanno costruito due secoli di musica in Svizzera.
 
 I programmi di sala delle seguenti collezioni sono stati inseriti nel database _Onstage_ (in ordine di pubblicazione):
 

@@ -1,6 +1,6 @@
 # Introduction
 
-_Onstage_ is a database that lists and publishes the programmes of public musical activities organized by various Swiss institutions. _onstage_ consists of concert programmes, lectures, courses, examinations and prize concerts; these documents - currently covering the period from 1826 to the present day - have been catalogued, indexed and digitized. _onstage_ makes it possible to retrace the musical repertoire played over the years, to reconstruct the tastes of a given period as well as its aesthetics, and to find the performers who contributed to two centuries of music in Switzerland.
+_Onstage_ is a database that lists and publishes the programmes of public musical activities organized by various Swiss institutions. _Onstage_ consists of concert programmes, lectures, courses, examinations and prize concerts; these documents - currently covering the period from the beginning of the 19th century to the present day - have been catalogued, indexed and digitized. _Onstage_ makes it possible to retrace the musical repertoire played over the years, to reconstruct the tastes of a given period as well as its aesthetics, and to find the performers who contributed to two centuries of music in Switzerland.
 
 Programme notes from the following collections were included in the _Onstage_ database (in order of publication):
 
