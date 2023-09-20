@@ -24,6 +24,9 @@ Les programmes des collections suivantes ont été saisis dans la base de donné
 			<td align="center">
 				<a href="http://www.hes-so.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hesso-s.png" width="100px" border="0"></a>
 			</td>
+			<td align="center">
+				<a href="https://www.zhbluzern.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/Logo-ZHB-farbig.png" width="100px" border="0"></a>
+			</td>
 		</tr>
     <tr>
       <td colspan=3>
