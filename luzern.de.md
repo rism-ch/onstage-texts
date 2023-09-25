@@ -13,7 +13,7 @@ Die Veröffentlichung erfolgte 2023.
 
 ### Hinweise zur Benutzung
 
-Die Namen der Komponist*innen wurden, soweit möglich, mit den Normdaten in der RISM-Datenbank abgeglichen. Die Zuschreibungen sind den Programmheften entnommen. Einige Stücke dürften inzwischen anderen Komponisten zugeordnet worden sein. Die Namen der Ensembles und Interpret*innen wurden innerhalb von OnStage vereinheitlicht, nicht aber weiter recherchiert. 
+Die Namen der Komponist\*innen wurden, soweit möglich, mit den Normdaten in der RISM-Datenbank abgeglichen. Die Zuschreibungen sind den Programmheften entnommen. Einige Stücke dürften inzwischen anderen Komponisten zugeordnet worden sein. Die Namen der Ensembles und Interpret\*innen wurden innerhalb von OnStage vereinheitlicht, nicht aber weiter recherchiert. 
 
 ### Danksagung
 
