@@ -28,7 +28,7 @@ In der Datenbank _Onstage_ wurden Programmhefte aus den folgenden Sammlungen erf
 			</td>
 		</tr>
     <tr>
-      <td colspan=3>
+      <td colspan=5>
         <table width="100%">
           <tr>
       			<td align="center" width="33%">
@@ -42,7 +42,7 @@ In der Datenbank _Onstage_ wurden Programmhefte aus den folgenden Sammlungen erf
       			</td>
           </tr>
           <tr>
-            <td align="center" colspan=3 style="padding: 10px">
+            <td align="center" colspan=5 style="padding: 10px">
               <a href="http://famb.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/famb_logo_pantone.jpg" width="75%"></a>
             </td>
         </table>
