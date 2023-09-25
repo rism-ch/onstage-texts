@@ -4,7 +4,7 @@ La Theater- und Musikliebhaber-Gesellschaft fu fondata nel 1806. Alla fine degli
 
 ### Le fonti
 
-I libretti dei programmi registrati provengono da diversi fondi delle collezioni speciali della Biblioteca centrale e universitaria di Lucerna. Le fonti digitalizzate si trovano essenzialmente nelle tre collezioni seguenti e hanno segnature diverse: 
+I libretti dei programmi registrati provengono da diversi fondi delle collezioni speciali della Biblioteca centrale e universitaria di Lucerna (ZHB) e coprono il periodo dal 1807 al 1940 circa. Le fonti digitalizzate si trovano essenzialmente nelle tre collezioni seguenti e hanno segnature diverse: 
 - Theater- und Musikliebhaber-Gesellschaft (segnatura BRb.27.2)
 - Collezione Gustav Arnold ([Ms.N.46:6.3](https://slsp-rzs.primo.exlibrisgroup.com/permalink/41SLSP_RZS/lim8q1/alma9914249263605505))
 - Collezione della Orchestergesellschaft der Stadt Luzern ([P.b 3606](https://slsp-rzs.primo.exlibrisgroup.com/permalink/41SLSP_RZS/lim8q1/alma9914390695705505), [P.b 3607](https://slsp-rzs.primo.exlibrisgroup.com/permalink/41SLSP_RZS/lim8q1/alma9914390695605505), [P.b 3608](https://slsp-rzs.primo.exlibrisgroup.com/permalink/41SLSP_RZS/lim8q1/alma9914390695505505) e [T.a 276](https://slsp-rzs.primo.exlibrisgroup.com/permalink/41SLSP_RZS/lim8q1/alma9914390695905505)). 
