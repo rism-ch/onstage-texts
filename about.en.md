@@ -51,10 +51,10 @@ _onstage_ is a document enhancement project that originates from the various act
 
 ### IT & digitisation managers
 
-* Swiss RISM Office – info@rism-ch.org
+* Swiss RISM Office – info@rism.digital
 
 ## Contact
-For more information: onstage@rism-ch.org
+For more information: onstage@rism.digital
 
 ## Realization
 The onstage database consists of three main elements: a digitized version of the concert programmes, manual indexing of their content and an automatic uncorrected OCR transcription for full-text search. These three elements are brought together in the search and presentation interface of the onstage project.

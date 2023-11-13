@@ -51,10 +51,10 @@ _onstage_ ist ein Projekt zur Valorisierung von Dokumenten, welches aus den vers
 
 ### Informatik und Digitalisierung
 
-* RISM Schweiz – info@rism-ch.org
+* RISM Schweiz – info@rism.digital
 
 ## Kontakt
-Für weitere Informationen: onstage@rism-ch.org
+Für weitere Informationen: onstage@rism.digital
 
 ## Realisierung
 Die onstage Datenbank besteht aus drei Hauptkomponenten: eine digitale Version der Konzertprogramme, eine manuelle Indexierung ihrer Inhalte und die automatische, unkorrigierte OCR-Transkription für die Volltextsuche. Diese drei Elemente sind in der Suchoberfläche und Präsentation von onstage integriert.
