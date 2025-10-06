@@ -28,7 +28,7 @@ In der Datenbank _Onstage_ wurden Programmhefte aus den folgenden Sammlungen erf
 			</td>
 		</tr>
     <tr>
- 			<td align="center>
+ 			<td align="center">
 				<a href="http://www.cmusge.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cmusge.png" width="120px" border="0"></a>
  			</td>
  			<td align="center">
