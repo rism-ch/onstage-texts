@@ -132,9 +132,9 @@ Hier sind zwei Diagramme, die die Entwicklung der Tendenzen in der Programmgesta
 
 <tr>
 
-<td>img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/image001.png"/></td>
+<td><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/image001.png"/></td>
 
-<td>img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/image002.png"/></td>
+<td><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/image002.png"/></td>
 
 </tr>
 
