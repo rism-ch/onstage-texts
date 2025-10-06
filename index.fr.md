@@ -29,25 +29,19 @@ Les programmes des collections suivantes ont été saisis dans la base de donné
 			</td>
 		</tr>
     <tr>
-      <td colspan=5>
-        <table width="100%">
-          <tr>
-      			<td align="center" width="33%">
-      				<a href="http://www.cmusge.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cmusge.png" width="120px" border="0"></a>
-      			</td>
-      			<td align="center" width="33%">
-      				<a href="https://www.hesge.ch/hem" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hem-ge.png" width="75px" border="0"></a>
-      			</td>
-      			<td align="center" width="33%">
-      				<a href="https://www.bge-geneve.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-bge.png" width="120px" border="0"></a>
-      			</td>
-          </tr>
-          <tr>
-            <td align="center" colspan=5 style="padding: 10px">
-              <a href="http://famb.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/famb_logo_pantone.jpg" width="75%"></a>
-            </td>
-        </table>
-      </td>
+ 			<td align="center>
+				<a href="http://www.cmusge.ch" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-cmusge.png" width="120px" border="0"></a>
+ 			</td>
+ 			<td align="center">
+				<a href="https://www.hesge.ch/hem" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-hem-ge.png" width="75px" border="0"></a>
+ 			</td>
+ 			<td align="center">
+				<a href="https://www.bge-geneve.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/logo-bge.png" width="120px" border="0"></a>
+ 			</td>
+      <td align="center">
+        <a href="http://famb.ch/" target="_blank"><img src="https://raw.githubusercontent.com/rism-ch/onstage-texts/master/images/famb_logo_pantone.jpg" width="80px" border="0"></a>
+        </td>
+    </tr>
 	</table>
 </div>
 
