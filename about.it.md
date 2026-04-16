@@ -34,27 +34,27 @@ _onstage_ è un progetto di valorizzazione documentaria che nasce dalle varie at
 ## Responsabili del progetto
 ### Responsabile della collezione del Conservatorio e della Haute Ecole de Musique de Lausanne
 
-* Biblioteca HEMU-CL – bibliotheque@hemu-cl.ch
+* Biblioteca HEMU-CL – bibliotheque[at]hemu-cl.ch
 * Violeta Struijk Van Bergen (collaboratrice scientifica)
 
 ### Responsabile della collezione del Conservatorio di Ginevra e dell'Alta Scuola di Musica di Ginevra
 
-* Biblioteca del Conservatoire de Musique – biblio@cmg.ch
+* Biblioteca del Conservatoire de Musique – biblio.hem[at]hesge.ch
 
 ### Responsabile della collezione Freunde alter Musik Basel
 
-* Archivio dell'Associazione Freunde alter Musik Basel – info@famb.ch
+* Archivio dell'Associazione Freunde alter Musik Basel – info[at]famb.ch
 
 ### Responsabile della collezione La Musicale de la Bibliothèque de Genève
 
-* La Musicale de la Bibliothèque de Genève – bmus@ville-ge.ch
+* La Musicale de la Bibliothèque de Genève – bmus[at]ville-ge.ch
 
 ### IT & digitalizzazione
 
-* Ufficio svizzero del RISM - info@rism.digital
+* Ufficio svizzero del RISM - info[at]rism.digital
 
 ## Contatto
-Per maggiori informazioni: onstage@rism.digital
+Per maggiori informazioni: onstage[at]rism.digital
 
 ## Realizzazione
 Il database onstage è composto da tre elementi principali: una versione digitalizzata dei programmi dei concerti, l'indicizzazione manuale del loro contenuto e una trascrizione automatica non corretta dell'OCR per la ricerca del testo completo. Questi tre elementi sono riuniti nell'interfaccia di ricerca e di presentazione del progetto onstage.
